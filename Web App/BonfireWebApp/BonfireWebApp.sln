@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonfireWebApp", "BonfireWebApp\BonfireWebApp.csproj", "{41BAB0CE-0B05-48B3-82D0-BE99DCC1CB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BAB0CE-0B05-48B3-82D0-BE99DCC1CB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BAB0CE-0B05-48B3-82D0-BE99DCC1CB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BAB0CE-0B05-48B3-82D0-BE99DCC1CB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BAB0CE-0B05-48B3-82D0-BE99DCC1CB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01F139D0-B1ED-4357-A96C-7D25556068C7}
+	EndGlobalSection
+EndGlobal
