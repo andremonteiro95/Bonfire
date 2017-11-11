@@ -15,16 +15,20 @@ namespace BonfireWebApp.Controllers
         {
             if (Session["UserID"] != null)
             {
-                return View();
+                return RedirectToAction("Index", "Management");
             }
-            else
-            {
-                return RedirectToAction("Login");
-            }
+
+            return RedirectToAction("Login");
         }
 
         public ActionResult Login()
         {
+            if (TempData["RedirectMessage"] != null)
+            {
+                ModelState.AddModelError("Email", TempData["RedirectMessage"].ToString());
+                TempData["RedirectMessage"] = null;
+            }
+
             return View();
         }
 

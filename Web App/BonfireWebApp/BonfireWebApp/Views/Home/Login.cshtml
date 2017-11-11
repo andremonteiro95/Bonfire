@@ -28,22 +28,25 @@
 
 <div class="card card-container">
     <img src="~/Content/Images/logo.png" style="width:100%;"/>
+    <br/><br/>
     @using (Html.BeginForm("Login", "Home", FormMethod.Post))
     {
         @Html.AntiForgeryToken()
         @Html.ValidationSummary(true)
-        <div class="form-group" style="color:red;">
-            <p style="color:red;">
+        <div class="form-group">
+            <p style="color:red; font-size: 12px;">
                 @Html.ValidationMessageFor(m => m.Email)
             </p>
-            @Html.TextBoxFor(a => a.Email, new { @placeholder = "Email" , @class = "form-control" })
-        </div>        
+            @Html.TextBoxFor(a => a.Email, new { @placeholder = "Email", @class = "form-control" })
+        </div>
         <div class="form-group">
-            <p style="color:red;">
+            <p style="color:red; font-size: 12px;">
                 @Html.ValidationMessageFor(m => m.Password)
             </p>
             @Html.PasswordFor(a => a.Password, new { @placeholder = "Password", @class="form-control" })
         </div>
-        <input type="submit" value="Login" class="btn btn-default" />
-     }
+        <center>
+            <input type="submit" value="Login" class="btn btn-default" />
+        </center>
+    }
 </div>
