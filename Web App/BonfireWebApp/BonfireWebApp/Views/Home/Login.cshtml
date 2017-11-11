@@ -1,0 +1,49 @@
+﻿@model BonfireWebApp.Models.User
+
+@{
+    ViewBag.Title = "Login - Bonfire";
+}
+
+<style>
+    .card-container.card {
+        max-width: 350px;
+        padding: 40px 40px;
+    }
+
+    .card {
+        background-color: #F7F7F7;
+        /* just in case there no content*/
+        padding: 20px 25px 30px;
+        margin: 0 auto 25px;
+        margin-top: 50px;
+        /* shadows and rounded borders */
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        border-radius: 2px;
+        -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    }
+</style>
+
+<div class="card card-container">
+    <img src="~/Content/Images/logo.png" style="width:100%;"/>
+    @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        <div class="form-group" style="color:red;">
+            <p style="color:red;">
+                @Html.ValidationMessageFor(m => m.Email)
+            </p>
+            @Html.TextBoxFor(a => a.Email, new { @placeholder = "Email" , @class = "form-control" })
+        </div>        
+        <div class="form-group">
+            <p style="color:red;">
+                @Html.ValidationMessageFor(m => m.Password)
+            </p>
+            @Html.PasswordFor(a => a.Password, new { @placeholder = "Password", @class="form-control" })
+        </div>
+        <input type="submit" value="Login" class="btn btn-default" />
+     }
+</div>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UserModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="UserModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Salt" ColumnName="Salt" />
+          <ScalarProperty Name="Privilege" ColumnName="Privilege" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="uspAddUser" FunctionName="UserModel.Store.uspAddUser" />
+    <FunctionImportMapping FunctionImportName="uspDeleteUser" FunctionName="UserModel.Store.uspDeleteUser" />
+    <FunctionImportMapping FunctionImportName="uspEditUser" FunctionName="UserModel.Store.uspEditUser" />
+    <FunctionImportMapping FunctionImportName="uspLoginUser" FunctionName="UserModel.Store.uspLoginUser" />
+    <FunctionImportMapping FunctionImportName="uspSelectAllUsers" FunctionName="UserModel.Store.uspSelectAllUsers">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="UserModel.uspSelectAllUsers_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Salt" ColumnName="Salt" />
+          <ScalarProperty Name="Privilege" ColumnName="Privilege" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="uspSelectUser" FunctionName="UserModel.Store.uspSelectUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="UserModel.uspSelectUser_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Salt" ColumnName="Salt" />
+          <ScalarProperty Name="Privilege" ColumnName="Privilege" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
