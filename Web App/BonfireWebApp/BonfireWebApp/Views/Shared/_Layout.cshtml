@@ -17,10 +17,16 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <img src="~/Content/Images/logo.png" style="margin-top:7px; height:40px;"/>
+                <!--@Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+               -->
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
+                    <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Management" ? "active" : "") ">
+                        @Html.ActionLink("Management","Index","Management")
+                    </li>
+                    <li><a href="#">Management</a></li>
                 </ul>
             </div>
         </div>
@@ -30,7 +36,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <p>&copy; @DateTime.Now.Year - Bonfire</p>
         </footer>
     </div>
 
