@@ -28,6 +28,62 @@ namespace BonfireWebApp.Controllers
 
             return View(list);
         }
+        
+        public ActionResult Edit(int id)
+        {
+            // TODO
+            if (!IsUserLoggedIn() /*|| !IsUserAdmin()*/)
+            {
+                TempData["RedirectMessage"] = "Access denied. Please login.";
+                return RedirectToAction("Index", "Home");
+            }
+
+            User user = new User();
+
+            if (id > 0)
+            {
+                using (UserDBContext db = new UserDBContext())
+                {
+                    user = db.GetUserById(id);
+                    return View(user);
+                }
+            }
+            
+            return View(user);
+        }
+
+        [HttpPost]
+        public ActionResult Save(User user)
+        {
+            using (UserDBContext db = new UserDBContext())
+            {
+                bool success;
+                
+                if (user.id <= 0) {
+                    success = db.AddNewUser(user);
+                    return RedirectToAction("Index", new { result = success ? 1 : 0 , add = 1 });
+                }
+
+                success = db.EditUser(user);
+                return RedirectToAction("Index", new { result = success ? 1 : 0, add = 0 });
+            }
+        }
+
+        public ActionResult Delete(int id)
+        {
+            using (UserDBContext db = new UserDBContext())
+            {
+                bool success;
+
+                if (id <= 0)
+                {
+                    return RedirectToAction("Index", new { result = 0, delete = 1 });
+                }
+
+                success = db.DeleteUser(id);
+                return RedirectToAction("Index", new { result = success ? 1 : 0, delete = 1 });
+            }
+        }
 
         private bool IsUserLoggedIn()
         {

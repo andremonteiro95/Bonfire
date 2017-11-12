@@ -31,6 +31,7 @@ namespace BonfireWebApp.Models
         public string Password { get; set; }
 
         [Required]
+        [Display(Name = "Administrator Privileges")]
         public bool Privilege { get; set; }
      
         public User()
@@ -154,6 +155,79 @@ namespace BonfireWebApp.Models
             }
 
             return list;
+        }
+
+        public bool AddNewUser(User user)
+        {
+            using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand("uspAddUser", con))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.Parameters.Add("@pName", SqlDbType.VarChar).Value = user.Name;
+                    cmd.Parameters.Add("@pEmail", SqlDbType.VarChar).Value = user.Email;
+                    cmd.Parameters.Add("@pPassword", SqlDbType.VarChar).Value = user.Password;
+                    cmd.Parameters.Add("@pPrivilege", SqlDbType.Int).Value = user.Privilege ? 1 : 0;
+
+                    SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                    paramResp.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(paramResp);
+
+                    con.Open();
+                    cmd.ExecuteNonQuery();
+
+                    return Int32.Parse(paramResp.Value.ToString()) == 1;
+                }
+            }
+        }
+
+        public bool EditUser(User user)
+        {
+            using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand("uspEditUser", con))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.Parameters.Add("@pId", SqlDbType.Int).Value = user.id;
+                    cmd.Parameters.Add("@pName", SqlDbType.VarChar).Value = user.Name;
+                    cmd.Parameters.Add("@pEmail", SqlDbType.VarChar).Value = user.Email;
+                    cmd.Parameters.Add("@pPassword", SqlDbType.VarChar).Value = user.Password;
+                    cmd.Parameters.Add("@pPrivilege", SqlDbType.Int).Value = user.Privilege ? 1 : 0;
+
+                    SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                    paramResp.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(paramResp);
+
+                    con.Open();
+                    cmd.ExecuteNonQuery();
+
+                    return Int32.Parse(paramResp.Value.ToString()) == 1;
+                }
+            }
+        }
+
+        public bool DeleteUser(int id)
+        {
+            using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand("uspDeleteUser", con))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.Parameters.Add("@pId", SqlDbType.Int).Value = id;
+
+                    SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                    paramResp.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(paramResp);
+
+                    con.Open();
+                    cmd.ExecuteNonQuery();
+
+                    return Int32.Parse(paramResp.Value.ToString()) == 1;
+                }
+            }
         }
     }
 }

@@ -38,7 +38,7 @@ namespace BonfireWebApp.Controllers
             Session["UserName"] = null;
             Session["UserPrivilege"] = null;
 
-            return View();
+            return RedirectToAction("Login");
         }
 
         [HttpPost]
