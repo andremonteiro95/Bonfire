@@ -23,4 +23,3 @@ C:\Users\andre\Desktop\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\bin\
 C:\Users\andre\Desktop\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.csproj.CoreCompileInputs.cache
 C:\Users\andre\Desktop\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.dll
 C:\Users\andre\Desktop\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.pdb
-C:\Users\andre\Desktop\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.csprojResolveAssemblyReference.cache
