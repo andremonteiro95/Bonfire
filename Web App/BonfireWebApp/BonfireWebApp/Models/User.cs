@@ -27,7 +27,7 @@ namespace BonfireWebApp.Models
         public string Email { get; set; }
 
         [Required]
-        [StringLength(64)]
+        [StringLength(64, MinimumLength = 6)]
         public string Password { get; set; }
 
         [Required]

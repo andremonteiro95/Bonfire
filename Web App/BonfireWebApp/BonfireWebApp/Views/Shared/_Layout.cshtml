@@ -27,17 +27,19 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div class="navbar-brand">
-                    <img src="~/Content/Images/logo.png" style="height:20px;" />
+                    <a href="@Url.Action("Index", "Contents")">
+                        <img src="~/Content/Images/logo.png" style="height:20px;" />
+                    </a>
                 </div>
                 <!--@Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
                -->
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Content" ? "active" : "") ">
+                    <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Contents" ? "active" : "") ">
                         @Html.ActionLink("Contents", "Index", "Contents")
                     </li>
-                    <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Beacon" ? "active" : "") ">
+                    <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Beacons" ? "active" : "") ">
                         @Html.ActionLink("Beacons", "Index", "Beacons")
                     </li>
                     @if (Session["UserPrivilege"].ToString().Equals("1"))

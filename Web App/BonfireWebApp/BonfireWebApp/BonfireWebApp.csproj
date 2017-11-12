@@ -138,6 +138,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helpers\Validations.cs" />
+    <Compile Include="Models\Beacon.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -153,6 +154,8 @@
     <Content Include="Views\Management\Index.cshtml" />
     <Content Include="Views\Management\Edit.cshtml" />
     <Content Include="Views\Contents\Index.cshtml" />
+    <Content Include="Views\Beacons\Index.cshtml" />
+    <Content Include="Views\Beacons\Edit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -162,7 +165,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Beacons\" />
     <Folder Include="Views\Login\" />
   </ItemGroup>
   <ItemGroup>
