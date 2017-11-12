@@ -2,7 +2,7 @@ USE [QS]
 GO
 
 /****** Object:  StoredProcedure [dbo].[uspAddUser]    Script Date: 11/11/2017 18:23:10 ******/
-DROP PROCEDURE [dbo].[uspAddUser]
+DROP PROCEDURE IF EXISTS [dbo].[uspAddUser]
 GO
 
 /****** Object:  StoredProcedure [dbo].[uspAddUser]    Script Date: 11/11/2017 18:23:10 ******/
