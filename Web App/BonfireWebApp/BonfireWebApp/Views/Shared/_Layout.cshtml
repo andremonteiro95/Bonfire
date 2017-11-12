@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>@ViewBag.Title - Bonfire</title>
+    <link rel="icon" href="~/Content/Images/favicon.ico" />
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/datatables.min.css" rel="stylesheet" type="text/css" />
@@ -16,6 +17,7 @@
     <script src="~/Scripts/datatables.min.js"></script>
     <script src="~/Scripts/jquery.dataTables.min.js"></script>
     <script src="~/Scripts/dataTables.bootstrap.min.js"></script>
+    <script src="~/Scripts/validator.js"></script>
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -33,10 +35,10 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Content" ? "active" : "") ">
-                        @Html.ActionLink("Contents", "Index", "Content")
+                        @Html.ActionLink("Contents", "Index", "Contents")
                     </li>
                     <li class="@(ViewContext.RouteData.Values["Controller"].ToString() == "Beacon" ? "active" : "") ">
-                        @Html.ActionLink("Beacons", "Index", "Beacon")
+                        @Html.ActionLink("Beacons", "Index", "Beacons")
                     </li>
                     @if (Session["UserPrivilege"].ToString().Equals("1"))
                     {

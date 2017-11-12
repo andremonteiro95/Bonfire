@@ -65,7 +65,7 @@ namespace BonfireWebApp.Controllers
                     Session["UserID"] = u.id.ToString();
                     Session["UserName"] = u.Name.ToString();
                     Session["UserPrivilege"] = u.Privilege ? "1" : "0";
-                    return RedirectToAction("Index", "Management");
+                    return RedirectToAction("Index", "Contents");
                 }
             }
 

@@ -12,12 +12,14 @@ namespace BonfireWebApp.Controllers
         // GET: Management
         public ActionResult Index()
         {
-            // TODO
-            if (!IsUserLoggedIn() /*|| !IsUserAdmin()*/)
+            if (!IsUserLoggedIn())
             {
                 TempData["RedirectMessage"] = "Access denied. Please login.";
                 return RedirectToAction("Index", "Home");
             }
+
+            if (!IsUserAdmin())
+                return RedirectToAction("Index", "Contents");
 
             IList<User> list;
 
@@ -31,12 +33,14 @@ namespace BonfireWebApp.Controllers
         
         public ActionResult Edit(int id)
         {
-            // TODO
-            if (!IsUserLoggedIn() /*|| !IsUserAdmin()*/)
+            if (!IsUserLoggedIn())
             {
                 TempData["RedirectMessage"] = "Access denied. Please login.";
                 return RedirectToAction("Index", "Home");
             }
+
+            if (!IsUserAdmin())
+                return RedirectToAction("Index", "Contents");
 
             User user = new User();
 
@@ -55,6 +59,12 @@ namespace BonfireWebApp.Controllers
         [HttpPost]
         public ActionResult Save(User user)
         {
+            if (!IsUserLoggedIn() || !IsUserAdmin())
+            {
+                TempData["RedirectMessage"] = "Access denied. Please login.";
+                return RedirectToAction("Index", "Home");
+            }
+
             using (UserDBContext db = new UserDBContext())
             {
                 bool success;
@@ -65,12 +75,23 @@ namespace BonfireWebApp.Controllers
                 }
 
                 success = db.EditUser(user);
+                if (success && user.id == Int32.Parse(Session["UserID"].ToString()))
+                {
+                    Session["UserName"] = user.Name;
+                    Session["UserPrivilege"] = user.Privilege ? "1" : "0";
+                }
                 return RedirectToAction("Index", new { result = success ? 1 : 0, add = 0 });
             }
         }
 
         public ActionResult Delete(int id)
         {
+            if (!IsUserLoggedIn() || !IsUserAdmin())
+            {
+                TempData["RedirectMessage"] = "Access denied. Please login.";
+                return RedirectToAction("Index", "Home");
+            }
+
             using (UserDBContext db = new UserDBContext())
             {
                 bool success;
