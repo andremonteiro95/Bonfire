@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace BonfireWebApp.Controllers
 {
-    public class ContentController : Controller
+    public class BeaconsController : Controller
     {
-        // GET: Content
+        // GET: Beacon
         public ActionResult Index()
         {
             // TODO

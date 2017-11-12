@@ -193,7 +193,8 @@ namespace BonfireWebApp.Models
                     cmd.Parameters.Add("@pId", SqlDbType.Int).Value = user.id;
                     cmd.Parameters.Add("@pName", SqlDbType.VarChar).Value = user.Name;
                     cmd.Parameters.Add("@pEmail", SqlDbType.VarChar).Value = user.Email;
-                    cmd.Parameters.Add("@pPassword", SqlDbType.VarChar).Value = user.Password;
+                    cmd.Parameters.Add("@pPassword", SqlDbType.VarChar).Value = 
+                        user.Password == null ? "" : user.Password;
                     cmd.Parameters.Add("@pPrivilege", SqlDbType.Int).Value = user.Privilege ? 1 : 0;
 
                     SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
