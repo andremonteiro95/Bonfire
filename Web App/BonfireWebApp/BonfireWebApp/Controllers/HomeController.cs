@@ -32,6 +32,15 @@ namespace BonfireWebApp.Controllers
             return View();
         }
 
+        public ActionResult Logout()
+        {
+            Session["UserID"] = null;
+            Session["UserName"] = null;
+            Session["UserPrivilege"] = null;
+
+            return View();
+        }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Login(User user)
@@ -53,8 +62,9 @@ namespace BonfireWebApp.Controllers
                 User u = db.UserLogin(user.Email, user.Password.ToString());
                 if (u != null)
                 {
-                    Session["UserID"] = u.ToString();
-                    Session["UserName"] = u.ToString();
+                    Session["UserID"] = u.id.ToString();
+                    Session["UserName"] = u.Name.ToString();
+                    Session["UserPrivilege"] = u.Privilege ? "1" : "0";
                     return RedirectToAction("Index", "Management");
                 }
             }

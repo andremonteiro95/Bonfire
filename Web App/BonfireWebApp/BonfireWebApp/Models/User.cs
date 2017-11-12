@@ -8,10 +8,11 @@ using System.Data.Entity;
 using System.Data.SqlClient;
 using System.Data;
 using System.Configuration;
+using System.Collections;
 
 namespace BonfireWebApp.Models
 {
-    public class User
+    public class User 
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -120,6 +121,39 @@ namespace BonfireWebApp.Models
             }
 
             return user;
+        }
+
+        public List<User> GetAllUsers()
+        {
+            List<User> list = new List<User>();
+
+            using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand("uspSelectAllUsers", con))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                    paramResp.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(paramResp);
+
+                    con.Open();
+                    var reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        User user = new User();
+                        user.id = Int32.Parse(reader["id"].ToString());
+                        user.Name = reader["Name"].ToString();
+                        user.Email = reader["Email"].ToString();
+                        user.Password = reader["Password"].ToString();
+                        user.Privilege = Int32.Parse(reader["Privilege"].ToString()) > 0 ? true : false;
+                        list.Add(user);
+                    }
+                }
+            }
+
+            return list;
         }
     }
 }
