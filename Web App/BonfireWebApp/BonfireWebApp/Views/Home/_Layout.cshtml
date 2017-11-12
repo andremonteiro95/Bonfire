@@ -8,8 +8,23 @@
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        body {
+            background-position: right top;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
+    @{ 
+        string randomBG()
+        {
+            Random r = new Random();
+            int n = r.Next(1, 5);
+            return "loginbg" + n + ".jpg";
+        }
+    }
 </head>
-<body background="~/Content/Backgrounds/loginbg.jpg">
+<body background="~/Content/Backgrounds/@randomBG()">
     <div class="container body-content">
         @RenderBody()
     </div>

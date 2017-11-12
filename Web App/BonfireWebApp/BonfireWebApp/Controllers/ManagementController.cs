@@ -1,4 +1,5 @@
-﻿using BonfireWebApp.Models;
+﻿using BonfireWebApp.Helpers;
+using BonfireWebApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -63,6 +64,18 @@ namespace BonfireWebApp.Controllers
             {
                 TempData["RedirectMessage"] = "Access denied. Please login.";
                 return RedirectToAction("Index", "Home");
+            }
+
+            if (user.Password.Length < 6)
+            {
+                ModelState.AddModelError("Password", "Password must be, at least, 6 characters long.");
+                return View(user);
+            }
+
+            if (!Validations.IsValidEmail(user.Email))
+            {
+                ModelState.AddModelError("Email", "Email has an invalid format.");
+                return View(user);
             }
 
             using (UserDBContext db = new UserDBContext())

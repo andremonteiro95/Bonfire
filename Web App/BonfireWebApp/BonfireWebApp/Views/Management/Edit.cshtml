@@ -36,13 +36,22 @@ else {
                 <div class="help-block with-errors"></div>
             </div>
         </div>
-
+        
         <div class="form-group has-feedback">
             @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.PasswordFor(model => model.Password, new { @class = "form-control", @type = "password", @data_minlength = 6 } )
-                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
-                <div class="help-block">Minimum of 6 characters. Leave blank to keep password unchanged.</div>
+                @if (Model.id > 0)
+                {
+                    @Html.PasswordFor(model => model.Password, new { @class = "form-control", @type = "password", @data_minlength = 6 })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                    <div class="help-block">Minimum of 6 characters. Leave blank to keep password unchanged.</div>
+                }
+                else
+                {
+                    @Html.PasswordFor(model => model.Password, new { @class = "form-control", @type = "password", @data_minlength = 6, @required = true })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                    <div class="help-block">Minimum of 6 characters.</div>
+                }
             </div>
         </div>
         <div class="form-group">

@@ -2,7 +2,7 @@ USE [QS]
 GO
 
 /****** Object:  StoredProcedure [dbo].[uspAddUser]    Script Date: 11/11/2017 18:23:10 ******/
-DROP PROCEDURE IF EXISTS [dbo].[uspAddUser]
+DROP PROCEDURE IF EXISTS [dbo].[uspAddBeacon]
 GO
 
 /****** Object:  StoredProcedure [dbo].[uspAddUser]    Script Date: 11/11/2017 18:23:10 ******/
@@ -13,20 +13,17 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
-CREATE PROCEDURE [dbo].[uspAddUser]
-    @pName NVARCHAR(64), 
-    @pEmail NVARCHAR(64), 
-    @pPassword NVARCHAR(64),
-	@pPrivilege int,
+CREATE PROCEDURE [dbo].[uspAddBeacon]
+    @pUuid uniqueidentifier, 
+    @pName NVARCHAR(128), 
+    @pLocalization NVARCHAR(64),
     @response int OUTPUT
 AS
 BEGIN
-
-    DECLARE @salt UNIQUEIDENTIFIER=NEWID()
     BEGIN TRY
 
-        INSERT INTO dbo.[User] (Name, Email, Password, Salt, Privilege)
-        VALUES(@pName, @pEmail, HASHBYTES('SHA2_512', @pPassword + CAST(@salt AS NVARCHAR(36))), @salt, @pPrivilege);
+        INSERT INTO dbo.[Beacon] (uuid, Name, Localization)
+        VALUES(@pUuid, @pName, @pLocalization);
 
        SET @response = 1
 
