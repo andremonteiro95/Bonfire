@@ -5,7 +5,7 @@ ALTER TABLE [dbo].[User] DROP CONSTRAINT [DF_User_Privilege]
 GO
 
 /****** Object:  Table [dbo].[User]    Script Date: 11/11/2017 18:21:05 ******/
-DROP TABLE [dbo].[User]
+DROP TABLE IF EXISTS [dbo].[User]
 GO
 
 /****** Object:  Table [dbo].[User]    Script Date: 11/11/2017 18:21:05 ******/
