@@ -14,7 +14,7 @@ GO
 
 
 CREATE PROCEDURE [dbo].[uspSelectBeacon]
-	@pUuid int,
+	@pUuid uniqueidentifier,
 	@response int output
 AS
 BEGIN
