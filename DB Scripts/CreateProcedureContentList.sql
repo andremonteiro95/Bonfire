@@ -1,7 +1,7 @@
 USE [QS]
 GO
 
-DROP PROCEDURE IF EXISTS [dbo].[uspSelectAllBeacons]
+DROP PROCEDURE IF EXISTS [dbo].[uspSelectAllContents]
 GO
 
 SET ANSI_NULLS ON
@@ -11,12 +11,12 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
-CREATE PROCEDURE [dbo].[uspSelectAllBeacons]
+CREATE PROCEDURE [dbo].[uspSelectAllContents]
 	@response int output
 AS
 BEGIN
     BEGIN TRY
-        SELECT * FROM dbo.[Beacon]
+        SELECT * FROM dbo.[Content]
 		SET @response = 1
     END TRY
     BEGIN CATCH
