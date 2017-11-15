@@ -72,6 +72,28 @@ namespace BonfireWebApp.Models
                 return list;
             }
 
+            public bool DeleteContent(int id)
+            {
+                using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+                {
+                    using (SqlCommand cmd = new SqlCommand("uspDeleteContent", con))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+
+                        cmd.Parameters.Add("@pId", SqlDbType.Int).Value = id;
+
+                        SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                        paramResp.Direction = ParameterDirection.Output;
+                        cmd.Parameters.Add(paramResp);
+
+                        con.Open();
+                        cmd.ExecuteNonQuery();
+
+                        return Int32.Parse(paramResp.Value.ToString()) == 1;
+                    }
+                }
+            }
+
         }
     }
 }

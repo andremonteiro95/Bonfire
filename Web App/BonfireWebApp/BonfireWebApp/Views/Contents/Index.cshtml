@@ -14,11 +14,11 @@
             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
             @if (Int32.Parse(Request.Params["add"].ToString()) == 1)
             {
-                <p>The new beacon was saved successfully</p>
+                <p>The new content was saved successfully</p>
             }
             else
             {
-                <p>The beacon was edited successfully.</p>
+                <p>The content was edited successfully.</p>
             }
         </div>
     }
@@ -37,14 +37,14 @@
     {
         <div class="alert alert-success alert-dismissible" role="alert">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <p>Beacon deleted successfully.</p>
+            <p>Multimedia content deleted successfully.</p>
         </div>
     }
     else
     {
         <div class="alert alert-danger alert-dismissible" role="alert">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <strong>Error!</strong> The beacon could not be deleted.
+            <strong>Error!</strong> The content could not be deleted.
         </div>
     }
     <br />
