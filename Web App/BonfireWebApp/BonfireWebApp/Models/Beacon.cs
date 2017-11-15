@@ -22,6 +22,7 @@ namespace BonfireWebApp.Models
 
         [Required]
         [StringLength(64)]
+        [Display(Name="Location")]
         public string Localization { get; set; }
     }
 
