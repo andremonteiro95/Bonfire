@@ -18,6 +18,7 @@ BEGIN
     BEGIN TRY
 		SELECT c.id, c.Title, c.Description, c.Url FROM Content c
 		INNER JOIN ContentBeacon cb ON cb.ContentId = c.id and cb.BeaconId = @pUuid;
+		SET @response = 1
     END TRY
     BEGIN CATCH
         SET @response = 0
