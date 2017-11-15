@@ -1,0 +1,7 @@
+C:\Users\Spice\source\repos\Bonfire\Web Service\BonfireWebService\BonfireWebService\bin\BonfireWebService.dll.config
+C:\Users\Spice\source\repos\Bonfire\Web Service\BonfireWebService\BonfireWebService\bin\BonfireWebService.dll
+C:\Users\Spice\source\repos\Bonfire\Web Service\BonfireWebService\BonfireWebService\bin\BonfireWebService.pdb
+C:\Users\Spice\source\repos\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.csprojResolveAssemblyReference.cache
+C:\Users\Spice\source\repos\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.csproj.CoreCompileInputs.cache
+C:\Users\Spice\source\repos\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.dll
+C:\Users\Spice\source\repos\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.pdb
