@@ -73,5 +73,10 @@ namespace BonfireWebApp.Controllers
 
             return View(user);
         }
+
+        public ActionResult Error(int id)
+        {
+            return View(id);
+        }
     }
 }

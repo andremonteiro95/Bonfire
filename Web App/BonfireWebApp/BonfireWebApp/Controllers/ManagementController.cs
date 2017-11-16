@@ -66,6 +66,7 @@ namespace BonfireWebApp.Controllers
                 return RedirectToAction("Index", "Home");
             }
 
+            if (user.Password != null)
             if (user.Password.Length < 6)
             {
                 ModelState.AddModelError("Password", "Password must be, at least, 6 characters long.");
@@ -105,6 +106,11 @@ namespace BonfireWebApp.Controllers
                 return RedirectToAction("Index", "Home");
             }
 
+            if (Int32.Parse(Session["UserID"].ToString()) == id)
+            {
+                return RedirectToAction("Index", new { result = 0, delete = 1 });
+            }
+
             using (UserDBContext db = new UserDBContext())
             {
                 bool success;
@@ -123,7 +129,24 @@ namespace BonfireWebApp.Controllers
         {
             if (Session["UserID"] == null)
                 return false;
-            
+
+            using (UserDBContext db = new UserDBContext())
+            {
+                User user = db.GetUserById(Int32.Parse(Session["UserID"].ToString()));
+
+                if (user.id == 0) // User deleted from DB
+                {
+                    Session["UserID"] = null;
+                    Session["UserName"] = null;
+                    Session["UserPrivilege"] = null;
+                    return false;
+                }
+
+                Session["UserID"] = user.id.ToString();
+                Session["UserName"] = user.Name.ToString();
+                Session["UserPrivilege"] = user.Privilege ? "1" : "0";
+            }
+
             return true;
         }
 
