@@ -23,7 +23,7 @@ namespace BonfireWebApp.Models
         [Required]
         [StringLength(64)]
         [Display(Name="Location")]
-        public string Localization { get; set; }
+        public string Location { get; set; }
     }
 
     public class BeaconDBContext : IDisposable
@@ -60,7 +60,7 @@ namespace BonfireWebApp.Models
                         Beacon user = new Beacon();
                         user.uuid = reader["uuid"].ToString();
                         user.Name = reader["Name"].ToString();
-                        user.Localization = reader["Localization"].ToString();
+                        user.Location = reader["Localization"].ToString();
                         list.Add(user);
                     }
                 }
@@ -92,7 +92,7 @@ namespace BonfireWebApp.Models
                     {
                         beacon.uuid = uuid;
                         beacon.Name = reader["Name"].ToString();
-                        beacon.Localization = reader["Localization"].ToString();
+                        beacon.Location = reader["Localization"].ToString();
                     }
                 }
             }
@@ -110,7 +110,7 @@ namespace BonfireWebApp.Models
 
                     cmd.Parameters.Add("@pUuid", SqlDbType.UniqueIdentifier).Value = new Guid(beacon.uuid);
                     cmd.Parameters.Add("@pName", SqlDbType.VarChar).Value = beacon.Name;
-                    cmd.Parameters.Add("@pLocalization", SqlDbType.VarChar).Value = beacon.Localization;
+                    cmd.Parameters.Add("@pLocalization", SqlDbType.VarChar).Value = beacon.Location;
 
                     SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
                     paramResp.Direction = ParameterDirection.Output;
@@ -134,7 +134,7 @@ namespace BonfireWebApp.Models
 
                     cmd.Parameters.Add("@pUuid", SqlDbType.UniqueIdentifier).Value = new Guid(beacon.uuid);
                     cmd.Parameters.Add("@pName", SqlDbType.VarChar).Value = beacon.Name;
-                    cmd.Parameters.Add("@pLocalization", SqlDbType.VarChar).Value = beacon.Localization;
+                    cmd.Parameters.Add("@pLocalization", SqlDbType.VarChar).Value = beacon.Location;
 
                     SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
                     paramResp.Direction = ParameterDirection.Output;

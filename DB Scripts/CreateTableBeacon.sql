@@ -26,7 +26,7 @@ GO
 CREATE TABLE [dbo].[Beacon](
 	[uuid] [uniqueidentifier] NOT NULL,
 	[Name] [nvarchar](128) NOT NULL,
-	[Localization] [nvarchar](64) NOT NULL,
+	[Location] [nvarchar](64) NOT NULL,
  CONSTRAINT [PK_Beacon] PRIMARY KEY CLUSTERED 
 (
 	[uuid] ASC

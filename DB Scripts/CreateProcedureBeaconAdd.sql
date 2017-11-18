@@ -16,14 +16,14 @@ GO
 CREATE PROCEDURE [dbo].[uspAddBeacon]
     @pUuid uniqueidentifier, 
     @pName NVARCHAR(128), 
-    @pLocalization NVARCHAR(64),
+    @pLocation NVARCHAR(64),
     @response int OUTPUT
 AS
 BEGIN
     BEGIN TRY
 
-        INSERT INTO dbo.[Beacon] (uuid, Name, Localization)
-        VALUES(@pUuid, @pName, @pLocalization);
+        INSERT INTO dbo.[Beacon] (uuid, Name, Location)
+        VALUES(@pUuid, @pName, @pLocation);
 
        SET @response = 1
 

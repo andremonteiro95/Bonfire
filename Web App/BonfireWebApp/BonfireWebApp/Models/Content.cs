@@ -24,9 +24,22 @@ namespace BonfireWebApp.Models
         [StringLength(256)]
         public string Description { get; set; }
 
-        [Required]
         [StringLength(1024)]
         public string Url { get; set; }
+
+        [Required]
+        [Display(Name="Start Date")]
+        public string StartDate { get; set; }
+
+        [Required]
+        [Display(Name = "End Date")]
+        public string EndDate { get; set; }
+
+        public Content()
+        {
+            StartDate = DateTime.Now.Date.ToString("yyyy-MM-dd");
+            EndDate = DateTime.Now.Date.ToString("yyyy-MM-dd");
+        }
 
         public class ContentDBContext : IDisposable
         {
@@ -40,7 +53,7 @@ namespace BonfireWebApp.Models
                 //throw new NotImplementedException();
             }
 
-            public List<Content> GetAllBeacons()
+            public List<Content> GetAllContents()
             {
                 List<Content> list = new List<Content>();
 
@@ -64,6 +77,8 @@ namespace BonfireWebApp.Models
                             content.Title = reader["Title"].ToString();
                             content.Description = reader["Description"].ToString();
                             content.Url = reader["Url"].ToString();
+                            content.StartDate = reader["StartDate"].ToString();
+                            content.EndDate = reader["EndDate"].ToString();
                             list.Add(content);
                         }
                     }
@@ -81,6 +96,34 @@ namespace BonfireWebApp.Models
                         cmd.CommandType = CommandType.StoredProcedure;
 
                         cmd.Parameters.Add("@pId", SqlDbType.Int).Value = id;
+
+                        SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                        paramResp.Direction = ParameterDirection.Output;
+                        cmd.Parameters.Add(paramResp);
+
+                        con.Open();
+                        cmd.ExecuteNonQuery();
+
+                        return Int32.Parse(paramResp.Value.ToString()) == 1;
+                    }
+                }
+            }
+
+            public bool AddContent(Content content)
+            {
+                using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+                {
+                    using (SqlCommand cmd = new SqlCommand("uspAddContent", con))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+
+                        cmd.Parameters.Add("@pTitle", SqlDbType.VarChar).Value = content.Title;
+                        cmd.Parameters.Add("@pDescription", SqlDbType.VarChar).Value = content.Description;
+                        cmd.Parameters.Add("@pUrl", SqlDbType.VarChar).Value = content.Url;
+                        if (cmd.Parameters[2].Value == null)
+                            cmd.Parameters[2].Value = DBNull.Value;
+                        cmd.Parameters.Add("@pStartDate", SqlDbType.Date).Value = content.StartDate;
+                        cmd.Parameters.Add("@pEndDate", SqlDbType.Date).Value = content.EndDate;
 
                         SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
                         paramResp.Direction = ParameterDirection.Output;

@@ -81,7 +81,7 @@ namespace BonfireWebApp.Controllers
                 return View("Edit", beacon);
             }
 
-            if (String.IsNullOrWhiteSpace(beacon.Localization))
+            if (String.IsNullOrWhiteSpace(beacon.Location))
             {
                 ModelState.AddModelError("Localization", "Please fill this field.");
                 return View("Edit", beacon);

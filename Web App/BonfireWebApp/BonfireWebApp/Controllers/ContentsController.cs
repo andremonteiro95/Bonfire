@@ -20,7 +20,7 @@ namespace BonfireWebApp.Controllers
 
             using (ContentDBContext db = new ContentDBContext())
             {
-                list = db.GetAllBeacons();
+                list = db.GetAllContents();
             }
 
             return View(list);
@@ -48,7 +48,7 @@ namespace BonfireWebApp.Controllers
             }
         }
 
-        public ActionResult Edit(string id)
+        public ActionResult Edit(int id)
         {
             if (!IsUserLoggedIn())
             {
@@ -56,17 +56,65 @@ namespace BonfireWebApp.Controllers
                 return RedirectToAction("Index", "Home");
             }
 
-            Beacon beacon = new Beacon();
+            Content content = new Models.Content();
 
-            if (!String.IsNullOrWhiteSpace(id))
+            if (id > 0)
             {
-                using (BeaconDBContext db = new BeaconDBContext())
+                using (ContentDBContext db = new ContentDBContext())
                 {
-                    beacon = db.GetBeaconById(id);
+                    // TODO: GET CONTENT BY ID
+                    // content = db.get(id);
                 }
             }
 
-            return View(beacon);
+            return View(content);
+        }
+
+        [HttpPost]
+        public ActionResult Save(Content content)
+        {
+            if (!IsUserLoggedIn())
+            {
+                TempData["RedirectMessage"] = "Access denied. Please login.";
+                return RedirectToAction("Index", "Home");
+            }
+
+            if (String.IsNullOrWhiteSpace(content.Title))
+            {
+                ModelState.AddModelError("Title", "Please fill this field.");
+                return View("Edit", content);
+            }
+
+            if (String.IsNullOrWhiteSpace(content.Description))
+            {
+                ModelState.AddModelError("Description", "Please fill this field.");
+                return View("Edit", content);
+            }
+
+            if (String.IsNullOrWhiteSpace(content.StartDate))
+            {
+                ModelState.AddModelError("StartDate", "Please fill this field.");
+                return View("Edit", content);
+            }
+
+            if (String.IsNullOrWhiteSpace(content.EndDate))
+            {
+                ModelState.AddModelError("EndDate", "Please fill this field.");
+                return View("Edit", content);
+            }
+
+            using (ContentDBContext db = new ContentDBContext())
+            {
+                bool success;
+
+                if (content.id <= 0)
+                {
+                    success = db.AddContent(content);
+                    return RedirectToAction("Index", new { result = success ? 1 : 0, add = 0 });
+                }
+
+                return View(content);
+            }
         }
 
         private bool IsUserLoggedIn()
@@ -88,7 +136,7 @@ namespace BonfireWebApp.Controllers
 
                 Session["UserID"] = user.id.ToString();
                 Session["UserName"] = user.Name.ToString();
-                Session["UserPrivilege"] = user.Privilege ? "1" : "0";
+                Session["UserPrivile ge"] = user.Privilege ? "1" : "0";
             }
 
             return true;
