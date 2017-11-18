@@ -17,6 +17,8 @@ CREATE TABLE [dbo].[Content](
 	[Title] [nvarchar](64) NOT NULL,
 	[Description] [nvarchar](256) NOT NULL,
 	[Url] [nvarchar](1024) NULL,
+	[StartDate] [date] NOT NULL,
+	[EndDate] [date] NOT NULL
  CONSTRAINT [PK_Content] PRIMARY KEY CLUSTERED 
 (
 	[id] ASC

@@ -16,7 +16,7 @@ GO
 CREATE PROCEDURE [dbo].[uspEditBeacon]
 	@pUuid uniqueidentifier, 
     @pName NVARCHAR(128), 
-    @pLocalization NVARCHAR(64),
+    @pLocation NVARCHAR(64),
     @response int OUTPUT
 AS
 BEGIN
@@ -24,7 +24,7 @@ BEGIN
 		UPDATE dbo.[Beacon]
 		SET 
 			Name = @pName,
-			Localization = @pLocalization
+			Location = @pLocation
 		WHERE uuid = @pUuid
 
 		SET @response = 1
