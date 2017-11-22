@@ -1,11 +1,9 @@
 USE [QS]
 GO
 
-/****** Object:  StoredProcedure [dbo].[uspEditUser]    Script Date: 11/11/2017 18:22:43 ******/
 DROP PROCEDURE IF EXISTS [dbo].[uspEditBeacon]
 GO
 
-/****** Object:  StoredProcedure [dbo].[uspEditUser]    Script Date: 11/11/2017 18:22:43 ******/
 SET ANSI_NULLS ON
 GO
 

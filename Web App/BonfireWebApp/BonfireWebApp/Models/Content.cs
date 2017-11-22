@@ -137,6 +137,66 @@ namespace BonfireWebApp.Models
                 }
             }
 
+            public Content GetContentById(int id)
+            {
+                Content content = new Content();
+
+                using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+                {
+                    using (SqlCommand cmd = new SqlCommand("uspSelectContent", con))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+
+                        cmd.Parameters.Add("@pId", SqlDbType.Int).Value = id;
+
+                        SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                        paramResp.Direction = ParameterDirection.Output;
+                        cmd.Parameters.Add(paramResp);
+
+                        con.Open();
+                        var reader = cmd.ExecuteReader();
+
+                        while (reader.Read())
+                        {
+                            content.id = id;
+                            content.Title = reader["Title"].ToString();
+                            content.Description = reader["Description"].ToString();
+                            content.Url = String.IsNullOrWhiteSpace(reader["Url"].ToString()) ? null : reader["Url"].ToString();
+                            content.StartDate = reader["StartDate"].ToString();
+                            content.EndDate = reader["EndDate"].ToString();
+                        }
+                    }
+                }
+
+                return content;
+            }
+
+            public bool EditContent(Content content)
+            {
+                using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
+                {
+                    using (SqlCommand cmd = new SqlCommand("uspEditContent", con))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+
+                        cmd.Parameters.Add("@pId", SqlDbType.Int).Value = content.id;
+                        cmd.Parameters.Add("@pTitle", SqlDbType.VarChar).Value = content.Title;
+                        cmd.Parameters.Add("@pDescription", SqlDbType.VarChar).Value = content.Description;
+                        cmd.Parameters.Add("@pUrl", SqlDbType.VarChar).Value = content.Url;
+                        cmd.Parameters.Add("@pStartDate", SqlDbType.Date).Value = content.StartDate;
+                        cmd.Parameters.Add("@pEndDate", SqlDbType.Date).Value = content.EndDate;
+
+                        SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
+                        paramResp.Direction = ParameterDirection.Output;
+                        cmd.Parameters.Add(paramResp);
+
+                        con.Open();
+                        cmd.ExecuteNonQuery();
+
+                        return Int32.Parse(paramResp.Value.ToString()) == 1;
+                    }
+                }
+            }
         }
     }
 }
