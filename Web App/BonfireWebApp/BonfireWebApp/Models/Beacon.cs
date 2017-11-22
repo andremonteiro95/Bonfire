@@ -60,7 +60,7 @@ namespace BonfireWebApp.Models
                         Beacon user = new Beacon();
                         user.uuid = reader["uuid"].ToString();
                         user.Name = reader["Name"].ToString();
-                        user.Location = reader["Localization"].ToString();
+                        user.Location = reader["Location"].ToString();
                         list.Add(user);
                     }
                 }
