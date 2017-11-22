@@ -2,6 +2,7 @@
 
 @{
     ViewBag.Title = (Model.id > 0) ? "Edit Content" : "Add Content";
+    ContentDBContext dbContext = new ContentDBContext();
 }
 
 @if (Model.id > 0)
@@ -13,65 +14,96 @@ else
     <h2>Add New Content</h2>
 }
 
-@using (Html.BeginForm("Save", "Contents", FormMethod.Post, new { @data_toggle = "validator" }))
-{
-    @Html.AntiForgeryToken()
-    @Html.HiddenFor(m => m.id)
-    <div class="form-horizontal">
+<div class="container-fluid">
+    <div class="row">
         <hr />
-        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-        <div class="form-group has-feedback">
-            @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control", @required=true } })
-                @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
-                <div class="help-block with-errors"></div>
-            </div>
-        </div>
+        @using (Html.BeginForm("Save", "Contents", FormMethod.Post, new { @data_toggle = "validator" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(m => m.id)
+            <div class="col-md-6">
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group has-feedback">
+                        @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control", @required=true } })
+                            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
 
-        <div class="form-group has-feedback">
-            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", @required = true } })
-                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
-                <div class="help-block with-errors"></div>
-            </div>
-        </div>
+                    <div class="form-group has-feedback">
+                        @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control", @required = true } })
+                            @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
 
-        <div class="form-group has-feedback">
-            @Html.LabelFor(model => model.Url, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.Url, new { htmlAttributes = new { @class = "form-control", @type = "url"} })
-                @Html.ValidationMessageFor(model => model.Url, "", new { @class = "text-danger" })
-                <div class="help-block with-errors"></div>
-            </div>
-        </div>
+                    <div class="form-group has-feedback">
+                        @Html.LabelFor(model => model.Url, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Url, new { htmlAttributes = new { @class = "form-control", @type = "url"} })
+                            @Html.ValidationMessageFor(model => model.Url, "", new { @class = "text-danger" })
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
 
-        <div class="form-group has-feedback">
-            @Html.LabelFor(model => model.StartDate, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control datepicker", @required = true } })
-                @Html.ValidationMessageFor(model => model.StartDate, "", new { @class = "text-danger" })
-                <div class="help-block with-errors"></div>
-            </div>
-        </div>
+                    <div class="form-group has-feedback">
+                        @Html.LabelFor(model => model.StartDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control datepicker", @required = true } })
+                            @Html.ValidationMessageFor(model => model.StartDate, "", new { @class = "text-danger" })
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
 
-        <div class="form-group has-feedback">
-            @Html.LabelFor(model => model.EndDate, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control datepicker", @required = true } })
-                @Html.ValidationMessageFor(model => model.EndDate, "", new { @class = "text-danger" })
-                <div class="help-block with-errors"></div>
-            </div>
-        </div>
+                    <div class="form-group has-feedback">
+                        @Html.LabelFor(model => model.EndDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control datepicker", @required = true } })
+                            @Html.ValidationMessageFor(model => model.EndDate, "", new { @class = "text-danger" })
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
 
-        <div class="form-group">
-            <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Save" class="btn btn-default" />
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
+            <div class="col-md-6">
+                <div class="form-horizontal">
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Associate</label>
+                        <div class="col-md-10">
+                            @{
+                                // List<SelectListItem> beaconUUIDs = dbContext.GetBeaconsNotUsed();
+                                // TODO: GET BEACONS
+
+                                //@Html.DropDownList("dropdown", beaconUUIDs)
+                            }
+
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="form-horizontal">
+                    <div class="form-group">
+                        <label class="control-label col-md-2"></label>
+                        <div class="col-md-10">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
     </div>
-}
+</div>
 
 <div>
     @Html.ActionLink("Back to List", "Index")
