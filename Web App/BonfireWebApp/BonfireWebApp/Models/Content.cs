@@ -35,6 +35,8 @@ namespace BonfireWebApp.Models
         [Display(Name = "End Date")]
         public string EndDate { get; set; }
 
+        public List<string> beacons { get; set; }
+
         public Content()
         {
             StartDate = DateTime.Now.Date.ToString("yyyy-MM-dd");
