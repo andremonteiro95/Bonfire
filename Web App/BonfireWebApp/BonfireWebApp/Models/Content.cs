@@ -77,8 +77,10 @@ namespace BonfireWebApp.Models
                             content.Title = reader["Title"].ToString();
                             content.Description = reader["Description"].ToString();
                             content.Url = reader["Url"].ToString();
-                            content.StartDate = reader["StartDate"].ToString();
-                            content.EndDate = reader["EndDate"].ToString();
+                            content.StartDate =
+                                DateTime.Parse(reader["StartDate"].ToString()).ToString("yyyy-MM-dd");
+                            content.EndDate =
+                                DateTime.Parse(reader["EndDate"].ToString()).ToString("yyyy-MM-dd");
                             list.Add(content);
                         }
                     }
@@ -162,8 +164,10 @@ namespace BonfireWebApp.Models
                             content.Title = reader["Title"].ToString();
                             content.Description = reader["Description"].ToString();
                             content.Url = String.IsNullOrWhiteSpace(reader["Url"].ToString()) ? null : reader["Url"].ToString();
-                            content.StartDate = reader["StartDate"].ToString();
-                            content.EndDate = reader["EndDate"].ToString();
+                            content.StartDate =
+                                DateTime.Parse(reader["StartDate"].ToString()).ToString("yyyy-MM-dd");
+                            content.EndDate =
+                                DateTime.Parse(reader["EndDate"].ToString()).ToString("yyyy-MM-dd");
                         }
                     }
                 }

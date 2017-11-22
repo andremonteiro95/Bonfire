@@ -102,6 +102,14 @@ namespace BonfireWebApp.Controllers
                 return View("Edit", content);
             }
 
+            DateTime sd = DateTime.Parse(content.StartDate), ed = DateTime.Parse(content.EndDate);
+
+            if (sd > ed)
+            {
+                ModelState.AddModelError("EndDate", "End Date must be after Start Date.");
+                return View("Edit", content);
+            }
+
             using (ContentDBContext db = new ContentDBContext())
             {
                 bool success;
@@ -136,7 +144,7 @@ namespace BonfireWebApp.Controllers
 
                 Session["UserID"] = user.id.ToString();
                 Session["UserName"] = user.Name.ToString();
-                Session["UserPrivile ge"] = user.Privilege ? "1" : "0";
+                Session["UserPrivilege"] = user.Privilege ? "1" : "0";
             }
 
             return true;

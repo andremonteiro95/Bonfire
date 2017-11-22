@@ -60,6 +60,8 @@
             <th>Title</th>
             <th>Description</th>
             <th>URL</th>
+            <th>Start Date</th>
+            <th>End Date</th>
             <th>Actions</th>
         </tr>
     </thead>
@@ -71,6 +73,8 @@
                 <td>@item.Title</td>
                 <td>@item.Description</td>
                 <td>@item.Url</td>
+                <td>@item.StartDate</td>
+                <td>@item.EndDate</td>
                 <td>
                     <a href="@Url.Action("Edit", "Contents", new { id = item.id } )"><span class="glyphicon glyphicon-pencil"></span></a>
                     &nbsp;
@@ -106,7 +110,7 @@
         $('#tableContents').DataTable({
             "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
             columnDefs: [
-                { orderable: false, targets: 4 }
+                { orderable: false, targets: 6 }
             ],
             "scrollX": true
         });
