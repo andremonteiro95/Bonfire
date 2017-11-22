@@ -110,7 +110,7 @@ namespace BonfireWebApp.Models
 
                     cmd.Parameters.Add("@pUuid", SqlDbType.UniqueIdentifier).Value = new Guid(beacon.uuid);
                     cmd.Parameters.Add("@pName", SqlDbType.VarChar).Value = beacon.Name;
-                    cmd.Parameters.Add("@pLocalization", SqlDbType.VarChar).Value = beacon.Location;
+                    cmd.Parameters.Add("@pLocation", SqlDbType.VarChar).Value = beacon.Location;
 
                     SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
                     paramResp.Direction = ParameterDirection.Output;
