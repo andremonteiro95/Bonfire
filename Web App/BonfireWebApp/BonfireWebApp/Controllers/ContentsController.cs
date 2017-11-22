@@ -62,8 +62,7 @@ namespace BonfireWebApp.Controllers
             {
                 using (ContentDBContext db = new ContentDBContext())
                 {
-                    // TODO: GET CONTENT BY ID
-                    // content = db.get(id);
+                    content = db.GetContentById(id);
                 }
             }
 
@@ -110,10 +109,11 @@ namespace BonfireWebApp.Controllers
                 if (content.id <= 0)
                 {
                     success = db.AddContent(content);
-                    return RedirectToAction("Index", new { result = success ? 1 : 0, add = 0 });
+                    return RedirectToAction("Index", new { result = success ? 1 : 0, add = 1 });
                 }
-
-                return View(content);
+                
+                success = db.EditContent(content);
+                return RedirectToAction("Index", new { result = success ? 1 : 0, add = 0 });
             }
         }
 
