@@ -78,6 +78,8 @@
                 <td>
                     <a href="@Url.Action("Edit", "Contents", new { id = item.id } )"><span class="glyphicon glyphicon-pencil"></span></a>
                     &nbsp;
+                    <a href="@Url.Action("Associate", "Contents", new { id = item.id } )"><span class="glyphicon glyphicon-send"></span></a>
+                    &nbsp;
                     <a href="#" class="delete-icon" data-toggle="modal" data-target=".delete-modal" data-id="@item.id" data-username="@item.Title">
                         <span class="glyphicon glyphicon-trash"></span>
                     </a>

@@ -1,0 +1,105 @@
+﻿@model BonfireWebApp.Models.ContentBeacon
+
+@{
+    ViewBag.Title = "Associate";
+    var availableBeacons = new List<SelectListItem>();
+    foreach (var s in (List<string>)ViewData["availableBeacons"])
+    {
+        availableBeacons.Add(new SelectListItem { Text = s, Value = s });
+    }
+}
+
+<h2>Associate Content to Beacons</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.id)
+        @Html.HiddenFor(model => model.ContentId)
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Beacon</label>
+            <div class="col-md-10 input-group">
+                @Html.DropDownList("dropdownAvailable", availableBeacons, new { @class = "form-control", @style = "min-width:320px;" })
+                &nbsp;&nbsp;<a href="javascript:addBeacon();"><span class="glyphicon glyphicon-plus"></span></a>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-8">
+                <table width="100%" id="tableBeacons" class="table table-striped table-bordered table-hover table-responsive">
+                    <thead>
+                        <th>Beacon UUID</th>
+                        <th>Actions</th>
+                    </thead>
+                    <tbody>
+                        @foreach (var s in Model.BeaconIds)
+                        {
+                            <tr>
+                                <td>s</td>
+                                <td><a href="#" class="removeBeaconIcon"><span class="glyphicon glyphicon-minus"></span></a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button onclick="submitBeacons()" class="btn btn-default">Save</button>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script>
+    var table;
+
+    $(function () {
+        initTable();
+    });
+
+    function addBeacon() {
+        if ($('#dropdownAvailable > option').length <= 0)
+            return;
+
+        table.row.add(
+            [$('#dropdownAvailable').val(), '<a href="#" class="removeBeaconIcon"><span class="glyphicon glyphicon-minus"></span></a>']
+        ).draw();
+
+        var index = $('#dropdownAvailable').get(0).selectedIndex;
+        $('#dropdownAvailable option:eq(' + index + ')').remove();
+    }
+
+    function initTable() {
+        table = $('#tableBeacons').DataTable({
+            columnDefs: [
+                { orderable: false, targets: 1 }
+            ],
+            "scrollX": true,
+            "paging": false,
+            "info": false,
+            "searching": false
+        });
+
+        $('#tableBeacons tbody').on('click', 'a.removeBeaconIcon', function () {
+            var row = $(this).parents('tr');
+            $('#dropdownAvailable').append(new Option(row.find("td:first").text(), row.find("td:first").text()));
+            table
+                .row(row)
+                .remove()
+                .draw();
+        });
+    }
+
+    function submitBeacons() {
+        alert("Submitting");
+    }
+</script>
