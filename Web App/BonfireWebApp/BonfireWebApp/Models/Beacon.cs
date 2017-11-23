@@ -69,6 +69,20 @@ namespace BonfireWebApp.Models
             return list;
         }
 
+        public List<string> GetAllBeaconsIds()
+        {
+            List<string> result = new List<string>();
+
+            List<Beacon> list = GetAllBeacons();
+
+            foreach(Beacon b in list)
+            {
+                result.Add(b.uuid);
+            }
+
+            return result;
+        }
+
         public Beacon GetBeaconById(string uuid)
         {
             Beacon beacon = new Beacon();

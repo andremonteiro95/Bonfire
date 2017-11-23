@@ -69,6 +69,34 @@ namespace BonfireWebApp.Controllers
             return View(content);
         }
 
+        public ActionResult Associate(int id)
+        {
+            ContentBeacon cb = new ContentBeacon();
+
+            List<string> availableBeacons = new List<string>();
+
+            using (BeaconDBContext db = new BeaconDBContext())
+            {
+                availableBeacons = db.GetAllBeaconsIds();
+            }
+
+            if (id > 0)
+            {
+                using (ContentBeaconDBContext db = new ContentBeaconDBContext())
+                {
+                    ContentBeacon associatedBeacons = db.GetContentBeaconsById(id);
+
+                    availableBeacons = availableBeacons.Except(associatedBeacons.BeaconIds).ToList();
+
+                    ViewData["associatedBeacons"] = associatedBeacons;
+                }
+            }
+
+            ViewData["availableBeacons"] = availableBeacons;
+
+            return View(cb);
+        }
+
         [HttpPost]
         public ActionResult Save(Content content)
         {
