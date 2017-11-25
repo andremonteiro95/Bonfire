@@ -84,11 +84,9 @@ namespace BonfireWebApp.Controllers
             {
                 using (ContentBeaconDBContext db = new ContentBeaconDBContext())
                 {
-                    ContentBeacon associatedBeacons = db.GetContentBeaconsById(id);
+                    cb = db.GetContentBeaconsById(id);
 
-                    availableBeacons = availableBeacons.Except(associatedBeacons.BeaconIds).ToList();
-
-                    ViewData["associatedBeacons"] = associatedBeacons;
+                    availableBeacons = availableBeacons.Except(cb.BeaconIds).ToList();
                 }
             }
 
@@ -144,16 +142,27 @@ namespace BonfireWebApp.Controllers
 
                 if (content.id <= 0)
                 {
-                    success = db.AddContent(content);
-                    return RedirectToAction("Index", new { result = success ? 1 : 0, add = 1 });
+                    int newid = db.AddContent(content);
+                    if (newid > 0)
+                        return RedirectToAction("Associate", new { id = newid, result = 1, add = 1 });
+                    else
+                        return RedirectToAction("Index", new { id = newid, result = 0, add = 1 });
                 }
-                
+
                 success = db.EditContent(content);
                 return RedirectToAction("Index", new { result = success ? 1 : 0, add = 0 });
             }
         }
 
-        private bool IsUserLoggedIn()
+        [HttpPost]
+        public ActionResult SaveAssociation(int id, string[] content)
+        {
+            // TODO: SAVE content ON DB
+
+            return RedirectToAction("Index");
+        }
+
+            private bool IsUserLoggedIn()
         {
             if (Session["UserID"] == null)
                 return false;

@@ -11,7 +11,7 @@
 
 <h2>Associate Content to Beacons</h2>
 
-@using (Html.BeginForm())
+@using (Html.BeginForm("Index", "Contents", FormMethod.Post, new { onsubmit = "javascript:submitBeacons()" }))
 {
     @Html.AntiForgeryToken()
     
@@ -39,7 +39,7 @@
                         @foreach (var s in Model.BeaconIds)
                         {
                             <tr>
-                                <td>s</td>
+                                <td>@s</td>
                                 <td><a href="#" class="removeBeaconIcon"><span class="glyphicon glyphicon-minus"></span></a></td>
                             </tr>
                         }
@@ -49,7 +49,7 @@
         </div>
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <button onclick="submitBeacons()" class="btn btn-default">Save</button>
+                <input type="submit" class="btn btn-default" value="Save" />
             </div>
         </div>
     </div>
@@ -100,6 +100,24 @@
     }
 
     function submitBeacons() {
-        alert("Submitting");
+        var dataArr = [];
+        var pid = parseInt($('#id').val());
+        $('#tableBeacons > tbody > tr').each(function () {
+            dataArr.push($(this).text())
+        });
+
+        $.ajax({
+            type: "POST",
+            url: '/Contents/SaveAssociation',
+            data: {
+                id: pid,
+                content: dataArr
+            },
+            success: function (data) {
+                alert(data);
+            },
+            error: function () {
+            }
+        });
     }
 </script>
