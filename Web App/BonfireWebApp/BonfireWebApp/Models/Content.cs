@@ -113,7 +113,7 @@ namespace BonfireWebApp.Models
                 }
             }
 
-            public bool AddContent(Content content)
+            public int AddContent(Content content)
             {
                 using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
                 {
@@ -136,7 +136,7 @@ namespace BonfireWebApp.Models
                         con.Open();
                         cmd.ExecuteNonQuery();
 
-                        return Int32.Parse(paramResp.Value.ToString()) == 1;
+                        return Int32.Parse(paramResp.Value.ToString());
                     }
                 }
             }

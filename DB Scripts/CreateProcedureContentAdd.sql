@@ -25,7 +25,7 @@ BEGIN
         INSERT INTO dbo.[Content] (Title, Description, Url, StartDate, EndDate)
         VALUES(@pTitle, @pDescription, @pUrl, @pStartDate, @pEndDate);
 
-       SET @response = 1
+       SET @response = SCOPE_IDENTITY()
 
     END TRY
     BEGIN CATCH
