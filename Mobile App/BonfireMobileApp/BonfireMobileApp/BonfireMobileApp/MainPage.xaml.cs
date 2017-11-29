@@ -12,6 +12,15 @@ namespace BonfireMobileApp
         public MainPage()
         {
             InitializeComponent();
+            Button button = new Button
+            {
+                Text = "Simulate Bacon!",
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.Center
+            };
+
+            Content = button;
+
         }
     }
 }
