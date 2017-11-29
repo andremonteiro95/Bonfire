@@ -12,12 +12,12 @@ GO
 
 
 CREATE PROCEDURE [dbo].[uspSelectContentBeacons]
-	@pId int,
+	@pContentId int,
 	@response int output
 AS
 BEGIN
     BEGIN TRY
-        SELECT BeaconId FROM dbo.[ContentBeacon] WHERE ContentId = @pId
+        SELECT BeaconId FROM dbo.[ContentBeacon] WHERE ContentId = @pContentId
 		SET @response = 1
     END TRY
     BEGIN CATCH

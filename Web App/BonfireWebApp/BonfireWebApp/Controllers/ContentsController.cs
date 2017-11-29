@@ -157,12 +157,32 @@ namespace BonfireWebApp.Controllers
         [HttpPost]
         public ActionResult SaveAssociation(int id, string[] content)
         {
-            // TODO: SAVE content ON DB
+            try
+            {
+                new Guid(content[0]);
+            }
+            catch
+            {
+                content = new string[] { };
+            }
 
-            return RedirectToAction("Index");
+            if (!IsUserLoggedIn())
+            {
+                TempData["RedirectMessage"] = "Access denied. Please login.";
+                return RedirectToAction("Index", "Home");
+            }
+
+            bool success = false;
+
+            using (ContentBeaconDBContext db = new ContentBeaconDBContext())
+            {
+                success = db.SaveContentBeacons(id, content);
+            }
+
+            return RedirectToAction("Index", "Contents", new { success = success });
         }
 
-            private bool IsUserLoggedIn()
+        private bool IsUserLoggedIn()
         {
             if (Session["UserID"] == null)
                 return false;
