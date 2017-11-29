@@ -62,6 +62,7 @@
             <th>URL</th>
             <th>Start Date</th>
             <th>End Date</th>
+            <th># of Beacons</th>
             <th>Actions</th>
         </tr>
     </thead>
@@ -72,9 +73,24 @@
                 <td>@item.id</td>
                 <td>@item.Title</td>
                 <td>@item.Description</td>
-                <td>@item.Url</td>
+                <td><a href="@item.Url" target="_blank">@item.Url</a></td>
                 <td>@item.StartDate</td>
-                <td>@item.EndDate</td>
+                <td>@item.EndDate
+                    @if (Convert.ToDateTime(item.EndDate).Date < DateTime.Now.Date)
+                    {
+                        <label style="color:red; font-weight:normal;">(Expired)</label>
+                    }
+                </td>
+                <td>
+                    @if (@item.numberOfBeacons > 0)
+                    {
+                            @item.numberOfBeacons
+                    }
+                    else
+                    {
+                        <label style="color:red; font-weight:normal;">Not deployed</label>
+                    }
+                </td>
                 <td>
                     <a href="@Url.Action("Edit", "Contents", new { id = item.id } )"><span class="glyphicon glyphicon-pencil"></span></a>
                     &nbsp;
@@ -112,7 +128,7 @@
         $('#tableContents').DataTable({
             "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
             columnDefs: [
-                { orderable: false, targets: 6 }
+                { orderable: false, targets: 7 }
             ],
             "scrollX": true
         });
