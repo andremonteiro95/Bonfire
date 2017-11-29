@@ -16,7 +16,9 @@ CREATE PROCEDURE [dbo].[uspSelectAllContents]
 AS
 BEGIN
     BEGIN TRY
-        SELECT * FROM dbo.[Content]
+        select C.id, C.Title, C.Description, C.Url, C.StartDate, C.EndDate, Count(CB.BeaconId) as NumberOfBeacons from Content C
+		LEFT JOIN ContentBeacon CB on C.id = CB.ContentId 
+		GROUP BY C.id, C.Title, C.Description, C.Url, C.StartDate, C.EndDate
 		SET @response = 1
     END TRY
     BEGIN CATCH

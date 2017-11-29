@@ -37,6 +37,8 @@ namespace BonfireWebApp.Models
 
         public List<string> beacons { get; set; }
 
+        public int numberOfBeacons { get; set; }
+
         public Content()
         {
             StartDate = DateTime.Now.Date.ToString("yyyy-MM-dd");
@@ -83,6 +85,7 @@ namespace BonfireWebApp.Models
                                 DateTime.Parse(reader["StartDate"].ToString()).ToString("yyyy-MM-dd");
                             content.EndDate =
                                 DateTime.Parse(reader["EndDate"].ToString()).ToString("yyyy-MM-dd");
+                            content.numberOfBeacons = Int32.Parse(reader["NumberOfBeacons"].ToString());
                             list.Add(content);
                         }
                     }
