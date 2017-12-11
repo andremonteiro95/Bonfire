@@ -15,7 +15,7 @@ namespace BonfireWebApp.Controllers
         {
             if (Session["UserID"] != null)
             {
-                return RedirectToAction("Index", "Management");
+                return RedirectToAction("Index", "Contents");
             }
 
             return RedirectToAction("Login");

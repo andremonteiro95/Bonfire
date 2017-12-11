@@ -192,6 +192,8 @@ namespace BonfireWebApp.Models
                         cmd.Parameters.Add("@pTitle", SqlDbType.VarChar).Value = content.Title;
                         cmd.Parameters.Add("@pDescription", SqlDbType.VarChar).Value = content.Description;
                         cmd.Parameters.Add("@pUrl", SqlDbType.VarChar).Value = content.Url;
+                        if (cmd.Parameters["@pUrl"].Value == null)
+                            cmd.Parameters["@pUrl"].Value = DBNull.Value;
                         cmd.Parameters.Add("@pStartDate", SqlDbType.Date).Value = content.StartDate;
                         cmd.Parameters.Add("@pEndDate", SqlDbType.Date).Value = content.EndDate;
 

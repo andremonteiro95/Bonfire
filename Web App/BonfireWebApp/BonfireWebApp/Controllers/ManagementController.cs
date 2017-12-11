@@ -45,11 +45,18 @@ namespace BonfireWebApp.Controllers
 
             User user = new User();
 
+            if (id < 0)
+                return RedirectToAction("Error", "Home", new { id = 0 });
+
             if (id > 0)
             {
                 using (UserDBContext db = new UserDBContext())
                 {
                     user = db.GetUserById(id);
+
+                    if (user.id == 0)
+                        return RedirectToAction("Error", "Home", new { id = 0 });
+
                     return View(user);
                 }
             }

@@ -46,7 +46,7 @@ C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\bin\System.Web.Webpages.
 C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\bin\System.Web.Webpages.Razor.xml
 C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\bin\System.Web.Helpers.xml
 C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\bin\System.Web.Mvc.xml
-C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.csprojResolveAssemblyReference.cache
 C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.csproj.CoreCompileInputs.cache
 C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.dll
 C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.pdb
+C:\Projects\Bonfire\Web App\BonfireWebApp\BonfireWebApp\obj\Debug\BonfireWebApp.csprojResolveAssemblyReference.cache

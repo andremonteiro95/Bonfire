@@ -58,12 +58,17 @@ namespace BonfireWebApp.Controllers
 
             Content content = new Models.Content();
 
+            if (id < 0)
+                return RedirectToAction("Error", "Home", new { id = 0 });
+
             if (id > 0)
             {
                 using (ContentDBContext db = new ContentDBContext())
                 {
                     content = db.GetContentById(id);
                 }
+                if (content.id == 0)
+                    return RedirectToAction("Error", "Home", new { id = 0 });
             }
 
             return View(content);
