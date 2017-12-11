@@ -42,7 +42,14 @@ namespace BonfireWebApp.Controllers
             {
                 using (BeaconDBContext db = new BeaconDBContext())
                 {
-                    beacon = db.GetBeaconById(id);
+                    try
+                    { 
+                        beacon = db.GetBeaconById(id);
+                    }
+                    catch (Exception e)
+                    {
+                        return RedirectToAction("Error", "Home", new { id = 0 });
+                    }
                 }
             }
 

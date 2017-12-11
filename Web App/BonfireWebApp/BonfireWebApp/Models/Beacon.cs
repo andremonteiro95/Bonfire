@@ -93,7 +93,14 @@ namespace BonfireWebApp.Models
                 {
                     cmd.CommandType = CommandType.StoredProcedure;
 
-                    cmd.Parameters.Add("@pUuid", SqlDbType.UniqueIdentifier).Value = new Guid(uuid);
+                    try
+                    {
+                        cmd.Parameters.Add("@pUuid", SqlDbType.UniqueIdentifier).Value = new Guid(uuid);
+                    }
+                    catch (SqlException e)
+                    {
+                        throw e;
+                    }
 
                     SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
                     paramResp.Direction = ParameterDirection.Output;
@@ -106,10 +113,13 @@ namespace BonfireWebApp.Models
                     {
                         beacon.uuid = uuid;
                         beacon.Name = reader["Name"].ToString();
-                        beacon.Location = reader["Localization"].ToString();
+                        beacon.Location = reader["Location"].ToString();
                     }
                 }
             }
+
+            if (String.IsNullOrWhiteSpace(beacon.uuid))
+                throw new Exception("UUID not in Database.");
 
             return beacon;
         }
