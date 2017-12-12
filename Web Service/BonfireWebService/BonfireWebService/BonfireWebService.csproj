@@ -68,6 +68,7 @@
     <Compile Include="BonfireService.svc.cs">
       <DependentUpon>BonfireService.svc</DependentUpon>
     </Compile>
+    <Compile Include="Entities\Content.cs" />
     <Compile Include="IService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -55,7 +55,11 @@
 </p>
 <br/>
 <p>
-    Filter by: <a href="#" id="filterTableAll">All</a> | <a href="#" id="filterTableActive">Active</a> | <a href="#" id="filterTableDeployed">Deployed</a>
+    Filter by: <a href="#" id="filterTableAll">All</a> | 
+    <a href="#" id="filterTableActive">Active</a> | 
+    <a href="#" id="filterTableExpired">Expired</a> | 
+    <a href="#" id="filterTableDeployed">Deployed</a> | 
+    <a href="#" id="filterTableNotDeployed">Not Deployed</a>
 </p>
 <table id="tableContents" class="table table-striped table-bordered table-hover table-responsive" cellspacing="0" width="100%">
     <thead>
@@ -78,17 +82,23 @@
                 <td>@item.Title</td>
                 <td>@item.Description</td>
                 <td><a href="@item.Url" target="_blank">@item.Url</a></td>
-                <td>@item.StartDate</td>
+                <td>
+                    @item.StartDate
+                    @if (Convert.ToDateTime(item.StartDate).Date > DateTime.Now.Date)
+                    {
+                        <label style="color:dodgerblue; font-weight:normal;">(Not started)</label>
+                    }
+                </td>
                 <td class="tdEndDate">
                     @item.EndDate
                     @if (Convert.ToDateTime(item.EndDate).Date < DateTime.Now.Date)
-                {
+                    {
                         <label style="color:red; font-weight:normal;">(Expired)</label>
                     }
                 </td>
                 <td class="tdDeployed">
                     @if (@item.numberOfBeacons > 0)
-                {
+                    {
                         @item.numberOfBeacons
                     }
                     else
@@ -141,8 +151,20 @@
             }
 
             if (filterTable == 2) {
+                var text = data[5];
+                if (text.indexOf('Expired') < 0)
+                    return false;
+            }
+
+            if (filterTable == 3) {
                 var text = data[6];
                 if (text.indexOf('Not deployed') >= 0)
+                    return false;
+            }
+
+            if (filterTable == 4) {
+                var text = data[6];
+                if (text.indexOf('Not deployed') < 0)
                     return false;
             }
 
@@ -171,8 +193,18 @@
             datatable.draw();
         });
 
-        $("#filterTableDeployed").click(function () {
+        $("#filterTableExpired").click(function () {
             filterTable = 2;
+            datatable.draw();
+        });
+
+        $("#filterTableDeployed").click(function () {
+            filterTable = 3;
+            datatable.draw();
+        });
+
+        $("#filterTableNotDeployed").click(function () {
+            filterTable = 4;
             datatable.draw();
         });
     });

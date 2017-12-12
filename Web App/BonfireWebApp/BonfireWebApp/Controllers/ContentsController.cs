@@ -85,8 +85,17 @@ namespace BonfireWebApp.Controllers
                 availableBeacons = db.GetAllBeaconsIds();
             }
 
+            if (id < 0)
+                return RedirectToAction("Error", "Home", new { id = 0 });
+
             if (id > 0)
             {
+                using (ContentDBContext db = new ContentDBContext())
+                {
+                    if (db.GetContentById(id).id == 0)
+                        return RedirectToAction("Error", "Home", new { id = 0 });
+                }
+
                 using (ContentBeaconDBContext db = new ContentBeaconDBContext())
                 {
                     cb = db.GetContentBeaconsById(id);

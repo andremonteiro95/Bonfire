@@ -19,7 +19,7 @@ BEGIN
 		DECLARE @curDate AS DATE;
 		SET @curDate = CONVERT(DATE, GETDATE());
 
-		SELECT c.id, c.Title, c.Description, c.Url FROM Content c 
+		SELECT c.id, c.Title, c.Description, c.Url, c.StartDate, c.EndDate FROM Content c 
 		INNER JOIN ContentBeacon cb 
 		ON cb.ContentId = c.id and cb.BeaconId = @pUuid 
 		and c.StartDate <= @curDate AND c.EndDate >= @curDate;
