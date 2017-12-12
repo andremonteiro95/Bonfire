@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BonfireWebService.Entities;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -15,38 +16,9 @@ namespace BonfireWebService
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class BonfireService : IService
     {
-        public string GetData(int value)
+        public List<Content> GetContentsByBeacon(string inputUuid)
         {
-            return string.Format("You entered: {0}", value);
-        }
-
-        public CompositeType GetDataUsingDataContract(CompositeType composite)
-        {
-            if (composite == null)
-            {
-                throw new ArgumentNullException("composite");
-            }
-            if (composite.BoolValue)
-            {
-                composite.StringValue += "Suffix";
-            }
-            return composite;
-        }
-
-        public class Contents
-        {
-            public string id { get; set; }
-            
-            public string Title { get; set; }
-            
-            public string Description { get; set; }
-
-            public string Url { get; set; }
-        }
-
-        public List<Contents> GetContentsByBeacon(string str)
-        {
-            List<Contents> list = new List<Contents>();
+            List<Content> list = new List<Content>();
 
             using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
             {
@@ -54,6 +26,9 @@ namespace BonfireWebService
                 {
                     cmd.CommandType = CommandType.StoredProcedure;
 
+                    SqlParameter paramUuid = new SqlParameter("@pUuid", SqlDbType.UniqueIdentifier);
+                    paramUuid.Value = new Guid(inputUuid);
+                    cmd.Parameters.Add(paramUuid);
                     SqlParameter paramResp = new SqlParameter("@response", SqlDbType.Int);
                     paramResp.Direction = ParameterDirection.Output;
                     cmd.Parameters.Add(paramResp);
@@ -63,11 +38,15 @@ namespace BonfireWebService
 
                     while (reader.Read())
                     {
-                        Contents content = new Contents();
+                        Content content = new Content();
                         content.id = reader["id"].ToString();
                         content.Title = reader["Title"].ToString();
                         content.Description = reader["Description"].ToString();
                         content.Url = reader["Url"].ToString();
+                        content.StartDate = 
+                            DateTime.Parse(reader["StartDate"].ToString()).ToString("yyyy-MM-dd");
+                        content.EndDate = 
+                            DateTime.Parse(reader["EndDate"].ToString()).ToString("yyyy-MM-dd");
                         list.Add(content);
                     }
                 }
