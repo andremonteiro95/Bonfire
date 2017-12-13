@@ -4,10 +4,10 @@
              xmlns:local="clr-namespace:BonfireMobileApp"
              x:Class="BonfireMobileApp.MainPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout x:Name="mainLayout" 
+                     VerticalOptions="FillAndExpand" 
+                     HorizontalOptions="FillAndExpand"
+                     Spacing="0">
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

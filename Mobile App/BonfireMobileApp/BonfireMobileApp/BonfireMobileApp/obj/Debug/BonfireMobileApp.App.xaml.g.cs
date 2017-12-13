@@ -11,8 +11,8 @@
 namespace BonfireMobileApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\andre\\Desktop\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobile" +
-        "App\\BonfireMobileApp\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp" +
+        "\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
