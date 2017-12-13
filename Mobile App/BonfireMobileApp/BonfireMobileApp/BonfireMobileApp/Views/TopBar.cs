@@ -29,7 +29,8 @@ namespace BonfireMobileApp.Views
             Image img = new Image
             {
                 Source = ImageSource.FromFile("logo2.png"),
-                Scale = 0.7
+                Scale = 0.7,
+                HorizontalOptions = LayoutOptions.Center
             };
 
             grid.Children.Add(img, 1, 0);
