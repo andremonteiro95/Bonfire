@@ -70,10 +70,13 @@
                 <td>@item.Name</td>
                 <td>@item.Location</td>
                 <td>
-                    <a href="@Url.Action("Edit", "Beacons", new { id = item.uuid } )"><span class="glyphicon glyphicon-pencil"></span></a>
+                    <a href="@Url.Action("Edit", "Beacons", new { id = item.uuid } )"
+                       data-toggle="tooltip" data-placement="top" title="Edit">
+                    <span class="glyphicon glyphicon-pencil"></span></a>
                     &nbsp;
                     <a href="#" class="delete-icon" data-toggle="modal" data-target=".delete-modal" data-id="@item.uuid" data-username="@item.Name">
-                        <span class="glyphicon glyphicon-trash"></span>
+                        <span data-toggle="tooltip" data-placement="top" title="Delete"
+                              class="glyphicon glyphicon-trash"></span>
                     </a>
                 </td>
             </tr>
@@ -109,6 +112,8 @@
             ],
             "scrollX": true
         });
+
+        $('[data-toggle="tooltip"]').tooltip({ container: 'body' });
     });
 
     $('.delete-modal').on('show.bs.modal', function (e) {
