@@ -7,7 +7,7 @@
     <WideTileSource>C:\Users\andre\Desktop\icon.png</WideTileSource>
     <LargeTileSource>C:\Users\andre\Desktop\icon.png</LargeTileSource>
     <AppIconSource>C:\Users\andre\Desktop\icon.png</AppIconSource>
-    <SplashScreenSource>C:\Users\andre\Desktop\icon.png</SplashScreenSource>
+    <SplashScreenSource>C:\Users\andre\Desktop\logo2.png</SplashScreenSource>
     <PackageLogoSource>C:\Users\andre\Desktop\icon.png</PackageLogoSource>
   </PropertyGroup>
 </Project>

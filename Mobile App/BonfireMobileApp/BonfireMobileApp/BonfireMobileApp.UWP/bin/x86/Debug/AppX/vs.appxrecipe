@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>E64C1880475D1574A04731069C7780E3B56757977A606B8BB086AF6F1179316A</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>EF328682C305DE24DCB66FF58FEDB3B1C86069E2F5899CB27DFB9CAED278AEFA</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f0ed3fe5-44c3-4089-bb96-6d878145784b_1.0.0.0_x86__ptkdchz042z66</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f0ed3fe5-44c3-4089-bb96-6d878145784b_ptkdchz042z66!App</RegisteredUserModeAppID>
     <RegisteredPackageID>f0ed3fe5-44c3-4089-bb96-6d878145784b</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-13T17:31:13.931</Modified>
+      <Modified>2017-12-13T18:30:03.287</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\BonfireMobileApp.UWP.exe">
       <PackagePath>entrypoint\BonfireMobileApp.UWP.exe</PackagePath>
-      <Modified>2017-12-13T17:31:13.251</Modified>
+      <Modified>2017-12-13T18:30:02.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,107 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\bin\Debug\BonfireMobileApp.dll">
       <PackagePath>BonfireMobileApp.dll</PackagePath>
-      <Modified>2017-12-13T17:31:10.684</Modified>
+      <Modified>2017-12-13T18:29:05.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:39.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:38.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:39.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:39.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:39.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:39.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:39.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:40.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:40.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:40.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:40.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-13T18:07:40.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\logo2.png">
       <PackagePath>logo2.png</PackagePath>
@@ -542,132 +642,127 @@
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.352</Modified>
+      <Modified>2017-12-13T18:29:43.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.355</Modified>
+      <Modified>2017-12-13T18:29:43.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.359</Modified>
+      <Modified>2017-12-13T18:29:43.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.362</Modified>
+      <Modified>2017-12-13T18:29:43.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.365</Modified>
+      <Modified>2017-12-13T18:29:44.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.369</Modified>
+      <Modified>2017-12-13T18:07:38.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.372</Modified>
+      <Modified>2017-12-13T18:07:38.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.376</Modified>
+      <Modified>2017-12-13T18:07:38.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.379</Modified>
+      <Modified>2017-12-13T18:07:38.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.381</Modified>
+      <Modified>2017-12-13T18:07:38.547</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.385</Modified>
+      <Modified>2017-12-13T18:07:39.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.388</Modified>
+      <Modified>2017-12-13T18:07:39.260</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.390</Modified>
+      <Modified>2017-12-13T18:07:39.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.404</Modified>
+      <Modified>2017-12-13T18:07:39.296</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.406</Modified>
+      <Modified>2017-12-13T18:07:39.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.410</Modified>
+      <Modified>2017-12-13T18:07:39.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.413</Modified>
+      <Modified>2017-12-13T18:07:39.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.419</Modified>
+      <Modified>2017-12-13T18:07:39.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.422</Modified>
+      <Modified>2017-12-13T18:07:39.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.415</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.425</Modified>
+      <Modified>2017-12-13T18:07:39.547</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.428</Modified>
+      <Modified>2017-12-13T18:07:38.578</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.431</Modified>
+      <Modified>2017-12-13T18:07:38.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.435</Modified>
+      <Modified>2017-12-13T18:07:38.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.438</Modified>
+      <Modified>2017-12-13T18:07:38.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-22T16:20:37.441</Modified>
+      <Modified>2017-12-13T18:07:38.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -688,11 +783,11 @@
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-13T17:28:35.526</Modified>
+      <Modified>2017-12-13T18:27:57.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Core\BonfireMobileApp.UWP.exe">
       <PackagePath>BonfireMobileApp.UWP.exe</PackagePath>
-      <Modified>2017-12-13T17:31:13.927</Modified>
+      <Modified>2017-12-13T18:30:03.283</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
