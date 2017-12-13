@@ -70,11 +70,13 @@
                 <td>@item.Email</td>
                 <td>@(item.Privilege ? "Yes" : "No")</td>
                 <td>
-                    <a href="@Url.Action("Edit", "Management", new { id = item.id } )"><span class="glyphicon glyphicon-pencil"></span></a>
+                    <a href="@Url.Action("Edit", "Management", new { id = item.id } )"
+                       data-toggle="tooltip" data-placement="top" title="Edit"><span class="glyphicon glyphicon-pencil"></span></a>
                     &nbsp;
                     @if(Session["UserID"].ToString() != item.id.ToString()) { 
                         <a href="#" class="delete-icon" data-toggle="modal" data-target=".delete-modal" data-id="@item.id" data-username="@item.Name">
-                            <span class="glyphicon glyphicon-trash"></span></a>
+                            <span data-toggle="tooltip" data-placement="top" title="Delete"
+                                  class="glyphicon glyphicon-trash"></span></a>
                     }
                 </td>
             </tr>
@@ -109,6 +111,8 @@
                 { orderable: false, targets: 4 }
             ]
         });
+
+        $('[data-toggle="tooltip"]').tooltip({ container: 'body' });
     });
 
     $('.delete-modal').on('show.bs.modal', function (e) {

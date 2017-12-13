@@ -107,12 +107,19 @@
                     }
                 </td>
                 <td>
-                    <a href="@Url.Action("Edit", "Contents", new { id = item.id } )"><span class="glyphicon glyphicon-pencil"></span></a>
+                    <a href="@Url.Action("Edit", "Contents", new { id = item.id } )"
+                       data-toggle="tooltip" data-placement="top" title="Edit">
+                        <span class="glyphicon glyphicon-pencil"></span>
+                    </a>
                     &nbsp;
-                    <a href="@Url.Action("Associate", "Contents", new { id = item.id } )"><span class="glyphicon glyphicon-send"></span></a>
+                    <a href="@Url.Action("Associate", "Contents", new { id = item.id } )"
+                       data-toggle="tooltip" data-placement="top" title="Associate">
+                    <span class="glyphicon glyphicon-send"></span></a>
                     &nbsp;
-                    <a href="#" class="delete-icon" data-toggle="modal" data-target=".delete-modal" data-id="@item.id" data-username="@item.Title">
-                        <span class="glyphicon glyphicon-trash"></span>
+                    <a href="#" class="delete-icon" data-toggle="modal" 
+                       data-target=".delete-modal" data-id="@item.id" data-username="@item.Title">
+                        <span data-toggle="tooltip" data-placement="top" title="Delete"
+                              class="glyphicon glyphicon-trash"></span>
                     </a>
                 </td>
             </tr>
@@ -182,6 +189,8 @@
             ],
             "scrollX": true
         });
+
+        $('[data-toggle="tooltip"]').tooltip({ container: 'body' });
 
         $("#filterTableAll").click(function () {
             filterTable = 0;
