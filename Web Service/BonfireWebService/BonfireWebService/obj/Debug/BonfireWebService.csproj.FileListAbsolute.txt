@@ -12,3 +12,10 @@ C:\Projects\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\Bo
 C:\Projects\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.csproj.CoreCompileInputs.cache
 C:\Projects\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.dll
 C:\Projects\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.pdb
+C:\Bonfire\Web Service\BonfireWebService\BonfireWebService\bin\BonfireWebService.dll.config
+C:\Bonfire\Web Service\BonfireWebService\BonfireWebService\bin\BonfireWebService.dll
+C:\Bonfire\Web Service\BonfireWebService\BonfireWebService\bin\BonfireWebService.pdb
+C:\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.csprojResolveAssemblyReference.cache
+C:\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.csproj.CoreCompileInputs.cache
+C:\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.dll
+C:\Bonfire\Web Service\BonfireWebService\BonfireWebService\obj\Debug\BonfireWebService.pdb

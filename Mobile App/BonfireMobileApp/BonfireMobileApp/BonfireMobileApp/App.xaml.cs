@@ -13,7 +13,7 @@ namespace BonfireMobileApp
         {
             InitializeComponent();
 
-            MainPage = new BonfireMobileApp.MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

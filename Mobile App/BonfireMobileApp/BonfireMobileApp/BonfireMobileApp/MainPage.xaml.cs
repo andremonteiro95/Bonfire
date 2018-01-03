@@ -34,15 +34,32 @@ namespace BonfireMobileApp
                 Url = "https://static.pexels.com/photos/207962/pexels-photo-207962.jpeg"
             };
 
+            Button bt = new Button
+            {
+                Text = "Blergh"
+
+            };
+            bt.Clicked += Bt_Clicked;
+
             // TODO: Remover, é teste
             for (int i=0; i<4; i++) {
                 stackLayout.Children.Add(new CardView(c));
                 stackLayout.Children.Add(new CardView(new Entities.Content { Title = "Hello" }));
             }
 
+            stackLayout.Children.Add(bt);
+
             scrollView.Content = stackLayout;
 
             mainLayout.Children.Add(scrollView);
+
+
+        }
+
+        private void Bt_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new DescriptionPage());
+
         }
     }
 }
