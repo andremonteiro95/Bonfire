@@ -98,7 +98,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\Backgrounds\loginbg.jpg" />
+    <Content Include="Content\Backgrounds\loginbg1.jpg" />
+    <Content Include="Content\Backgrounds\loginbg2.jpg" />
+    <Content Include="Content\Backgrounds\loginbg3.jpg" />
+    <Content Include="Content\Backgrounds\loginbg4.jpg" />
+    <Content Include="Content\Backgrounds\loginbg5.jpg" />
     <Content Include="Content\bootstrap-datepicker.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -115,6 +119,7 @@
     <Content Include="Scripts\bootstrap-datepicker.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\BonfireApp - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\dataTables.bootstrap.js" />
     <Content Include="Scripts\dataTables.bootstrap.min.js" />
@@ -126,7 +131,9 @@
     <Content Include="Scripts\jquery.dataTables.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\validator.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\_ViewStart.cshtml" />
     <Content Include="Views\Home\_Layout.cshtml" />

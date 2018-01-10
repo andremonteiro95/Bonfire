@@ -1,5 +1,6 @@
 ﻿using BonfireMobileApp.Entities;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,7 @@ namespace BonfireMobileApp.Services
 {
     class BonfireService
     {
-        string baseAddress = "http://10.0.2.2:9607/BonfireService.svc/";
+        string baseAddress = "http://bonfirewebservice.azurewebsites.net/BonfireService.svc/";
 
         public async Task<List<Content>> GetContentsByBeacon(string beaconuuid)
         {
@@ -20,19 +21,26 @@ namespace BonfireMobileApp.Services
                 BaseAddress = new Uri(baseAddress)
             };
 
+            List<Content> result = new List<Content>();
+
             try
             { 
                 var response = await httpClient.GetAsync("GetContentsByBeacon/" + beaconuuid);
-                ;
+                var obj = response.Content.ReadAsStringAsync().Result;
+                JObject json = JObject.Parse(obj);
+                IList<JToken> tokens = json["Result"].Children().ToList();
+                foreach(JToken token in tokens)
+                {
+                    Content content = token.ToObject<Content>();
+                    result.Add(content);
+                }
             }
             catch (Exception e)
             {
-                ;
+                return null;
             }
 
-          //  var x = response.Content;
-
-            return new List<Content>();
+            return result;
         }
 
     }
