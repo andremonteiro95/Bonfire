@@ -1,4 +1,5 @@
 ﻿using BonfireMobileApp.Entities;
+using BonfireMobileApp.Services;
 using BonfireMobileApp.Views;
 using System;
 using System.Collections.Generic;
@@ -40,6 +41,10 @@ namespace BonfireMobileApp
 
             };
             bt.Clicked += Bt_Clicked;
+
+            BonfireService bs = new BonfireService();
+            List<Content> x;
+            Task.Run(async () => { x = await bs.GetContentsByBeacon(""); }).GetAwaiter().GetResult();
 
             // TODO: Remover, é teste
             for (int i=0; i<4; i++) {
