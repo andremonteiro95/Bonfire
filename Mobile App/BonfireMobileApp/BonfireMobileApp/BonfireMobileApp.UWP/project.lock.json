@@ -22296,19 +22296,19 @@
     "UAP,Version=v10.0.10240": []
   },
   "packageFolders": {
-    "C:\\Users\\Spice\\.nuget\\packages\\": {}
+    "C:\\Users\\andre\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\BonfireMobileApp.UWP.csproj",
+      "projectUniqueName": "C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\BonfireMobileApp.UWP.csproj",
       "projectName": "BonfireMobileApp.UWP",
-      "projectPath": "C:\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\BonfireMobileApp.UWP.csproj",
-      "projectJsonPath": "C:\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\project.json",
-      "packagesPath": "C:\\Users\\Spice\\.nuget\\packages\\",
-      "outputPath": "C:\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\obj\\",
+      "projectPath": "C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\BonfireMobileApp.UWP.csproj",
+      "projectJsonPath": "C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\project.json",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "C:\\Users\\Spice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "sources": {
@@ -22318,8 +22318,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.csproj": {
-              "projectPath": "C:\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.csproj"
+            "C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.csproj": {
+              "projectPath": "C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp.csproj"
             }
           }
         }
