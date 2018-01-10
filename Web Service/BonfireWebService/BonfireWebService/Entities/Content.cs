@@ -6,7 +6,7 @@ using System.Web;
 
 namespace BonfireWebService.Entities
 {
-    [DataContract (Namespace ="")]
+    [DataContract (Namespace="")]
     public class Content
     {
         [DataMember]

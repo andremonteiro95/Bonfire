@@ -44,7 +44,7 @@ namespace BonfireMobileApp
 
             BonfireService bs = new BonfireService();
             List<Content> x;
-            Task.Run(async () => { x = await bs.GetContentsByBeacon(""); }).GetAwaiter().GetResult();
+            Task.Run(async () => { x = await bs.GetContentsByBeacon("c032b026-6c91-4cde-9c4c-0853d462fab8"); }).GetAwaiter().GetResult();
 
             // TODO: Remover, é teste
             for (int i=0; i<4; i++) {

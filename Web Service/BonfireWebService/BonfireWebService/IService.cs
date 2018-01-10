@@ -16,6 +16,7 @@ namespace BonfireWebService
         [OperationContract]
         [WebInvoke(Method = "GET", ResponseFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Wrapped, UriTemplate = "GetContentsByBeacon/{str}")]
+        [return: MessageParameter(Name="Result")]
         List<Content> GetContentsByBeacon(string str);
     }
 
