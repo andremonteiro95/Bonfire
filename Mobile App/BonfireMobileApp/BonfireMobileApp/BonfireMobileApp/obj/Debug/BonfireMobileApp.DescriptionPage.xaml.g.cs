@@ -11,8 +11,8 @@
 namespace BonfireMobileApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp\\Descript" +
-        "ionPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Projects\\Bonfire\\Mobile App\\BonfireMobileApp\\BonfireMobileApp\\BonfireMobileApp" +
+        "\\DescriptionPage.xaml")]
     public partial class DescriptionPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

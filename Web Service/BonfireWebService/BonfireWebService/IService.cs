@@ -14,6 +14,8 @@ namespace BonfireWebService
     public interface IService
     {
         [OperationContract]
+        [WebInvoke(Method = "GET", ResponseFormat = WebMessageFormat.Json,
+            BodyStyle = WebMessageBodyStyle.Wrapped, UriTemplate = "GetContentsByBeacon/{str}")]
         List<Content> GetContentsByBeacon(string str);
     }
 
