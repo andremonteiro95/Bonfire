@@ -20,10 +20,7 @@ namespace BonfireMobileApp
         {
             InitializeComponent();
 
-            var x = this.BindingContext;
-
-            VideoPlayer vp = new VideoPlayer("https://www.youtube.com/watch?v=3ZCnhBMdm_Q");
-            base.Content = vp;
+            Navigation.PopAsync();
         }
 
         public DescriptionPage(Content c)
@@ -32,9 +29,12 @@ namespace BonfireMobileApp
 
             this.actualContent = c;
 
-            // TODO: IF URL IS VIDEO FROM YOUTUBE DO THIS
+            NavigationPage.SetHasNavigationBar(this, false);
+
+            mainLayout.Children.Add(new TopBar(true));
+
             VideoPlayer vp = new VideoPlayer("https://www.youtube.com/watch?v=3ZCnhBMdm_Q");
-            Content = vp;
+            mainLayout.Children.Add(vp);
         }
     }
 }

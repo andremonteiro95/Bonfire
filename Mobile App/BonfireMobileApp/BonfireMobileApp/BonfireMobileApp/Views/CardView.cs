@@ -44,7 +44,8 @@ namespace BonfireMobileApp.Views
                 }
             };
 
-            if (content.Url != null)
+            int typeofurl = CheckIfValidUrl(content.Url); // 1 img, 2 vid
+            if (typeofurl == 1)
             {
                 Image img = new Image
                 {
@@ -52,6 +53,18 @@ namespace BonfireMobileApp.Views
                     Aspect = Aspect.AspectFill
                 };
                 img.Source = ImageSource.FromUri(new Uri(content.Url));
+                grid.Children.Add(img, 0, 0);
+            }
+            else if (typeofurl == 2)
+            {
+                Image img = new Image
+                {
+                    HorizontalOptions = LayoutOptions.Fill,
+                    Aspect = Aspect.AspectFill
+                };
+                string token = content.Url.Split('=')[1];
+                string thumbnailUrl = "https://img.youtube.com/vi/" + token + "/0.jpg";
+                img.Source = ImageSource.FromUri(new Uri(thumbnailUrl));
                 grid.Children.Add(img, 0, 0);
             }
             else
@@ -87,6 +100,21 @@ namespace BonfireMobileApp.Views
             outerGrid.Children.Add(grid, 1, 1);
 
             Content = outerGrid;
+        }
+
+        public int CheckIfValidUrl(string url)
+        {
+            if (url == null)
+                return 0;
+
+            if (url.EndsWith(".jpg") || url.EndsWith(".jpeg") || url.EndsWith(".png") || url.EndsWith(".gif"))
+                return 1;
+
+            if ((url.StartsWith("https://youtube.com/") || url.StartsWith("https://www.youtube.com/")) 
+                && url.Contains("watch?v="))
+                return 2;
+
+            return 0;
         }
     }
 }

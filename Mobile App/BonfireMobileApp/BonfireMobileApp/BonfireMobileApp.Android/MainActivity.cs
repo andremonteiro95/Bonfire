@@ -6,6 +6,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Acr.UserDialogs;
+using Xamarin.Forms;
 
 namespace BonfireMobileApp.Droid
 {
@@ -18,6 +20,8 @@ namespace BonfireMobileApp.Droid
 
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
+
+            UserDialogs.Init(() => (Activity)Forms.Context);
 
             base.OnCreate(bundle);
 
