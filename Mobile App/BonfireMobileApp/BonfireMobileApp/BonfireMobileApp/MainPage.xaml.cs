@@ -27,14 +27,17 @@ namespace BonfireMobileApp
 
             StackLayout stackLayout = new StackLayout
             {
-                Padding = 10,
+                Padding = 0,
                 BackgroundColor = Color.FromHex("#182221")
             };
 
             Content c = new Content
             {
                 Title = "TEST TEST TEST",
-                Url = "https://static.pexels.com/photos/207962/pexels-photo-207962.jpeg"
+                Description = "DESCRIPTION",
+                Url = "https://static.pexels.com/photos/207962/pexels-photo-207962.jpeg",
+                EndDate = "13/01/2018",
+                StartDate = "08/01/2018",
             };
 
             Button bt = new Button
@@ -67,7 +70,10 @@ namespace BonfireMobileApp
             Content c = new Content
             {
                 Title = "TEST TEST TEST",
-                Url = "https://static.pexels.com/photos/207962/pexels-photo-207962.jpeg"
+                Url = "https://static.pexels.com/photos/207962/pexels-photo-207962.jpeg",
+                Description = "DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION DESCRIPTION ",
+                EndDate = "13/01/2018",
+                StartDate = "08/01/2018",
             };
 
             DescriptionPage newPage = new DescriptionPage(c);

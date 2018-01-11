@@ -119,3 +119,5 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\Newtonsoft.Json.xml
