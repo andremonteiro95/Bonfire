@@ -3891,35 +3891,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.companyname.BonfireMobileApp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.companyname.BonfireMobileApp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.companyname.BonfireMobileApp:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.companyname.BonfireMobileApp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.companyname.BonfireMobileApp:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.companyname.BonfireMobileApp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.companyname.BonfireMobileApp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.companyname.BonfireMobileApp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.companyname.BonfireMobileApp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.companyname.BonfireMobileApp:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.companyname.BonfireMobileApp:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.companyname.BonfireMobileApp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.companyname.BonfireMobileApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.companyname.BonfireMobileApp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.companyname.BonfireMobileApp:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.companyname.BonfireMobileApp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.companyname.BonfireMobileApp:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.companyname.BonfireMobileApp:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.companyname.BonfireMobileApp:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.companyname.BonfireMobileApp:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.companyname.BonfireMobileApp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.companyname.BonfireMobileApp:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.companyname.BonfireMobileApp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.companyname.BonfireMobileApp:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.companyname.BonfireMobileApp:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.companyname.BonfireMobileApp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.companyname.BonfireMobileApp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.companyname.BonfireMobileApp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.companyname.BonfireMobileApp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.FubiniCorp.BonfireMobileApp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.FubiniCorp.BonfireMobileApp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.FubiniCorp.BonfireMobileApp:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.FubiniCorp.BonfireMobileApp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.FubiniCorp.BonfireMobileApp:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.FubiniCorp.BonfireMobileApp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.FubiniCorp.BonfireMobileApp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.FubiniCorp.BonfireMobileApp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.FubiniCorp.BonfireMobileApp:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.FubiniCorp.BonfireMobileApp:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.FubiniCorp.BonfireMobileApp:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.FubiniCorp.BonfireMobileApp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.FubiniCorp.BonfireMobileApp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.FubiniCorp.BonfireMobileApp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.FubiniCorp.BonfireMobileApp:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.FubiniCorp.BonfireMobileApp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.FubiniCorp.BonfireMobileApp:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.FubiniCorp.BonfireMobileApp:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.FubiniCorp.BonfireMobileApp:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.FubiniCorp.BonfireMobileApp:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.FubiniCorp.BonfireMobileApp:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.FubiniCorp.BonfireMobileApp:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.FubiniCorp.BonfireMobileApp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.FubiniCorp.BonfireMobileApp:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.FubiniCorp.BonfireMobileApp:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.FubiniCorp.BonfireMobileApp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.FubiniCorp.BonfireMobileApp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.FubiniCorp.BonfireMobileApp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.FubiniCorp.BonfireMobileApp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3962,17 +3962,17 @@ containing a value of this type.
             0x7f010079
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#background}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:background
+          @attr name com.FubiniCorp.BonfireMobileApp:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3980,11 +3980,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:backgroundSplit
+          @attr name com.FubiniCorp.BonfireMobileApp:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3992,11 +3992,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:backgroundStacked
+          @attr name com.FubiniCorp.BonfireMobileApp:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4008,11 +4008,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetEnd
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4024,11 +4024,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetEndWithActions
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4040,11 +4040,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetLeft
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4056,11 +4056,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetRight
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4072,11 +4072,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetStart
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4088,21 +4088,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetStartWithNavigation
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:customNavigationLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4120,21 +4120,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:displayOptions
+          @attr name com.FubiniCorp.BonfireMobileApp:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:divider
+          @attr name com.FubiniCorp.BonfireMobileApp:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4146,11 +4146,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:elevation
+          @attr name com.FubiniCorp.BonfireMobileApp:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#height}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4162,11 +4162,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:height
+          @attr name com.FubiniCorp.BonfireMobileApp:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4176,51 +4176,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:hideOnContentScroll
+          @attr name com.FubiniCorp.BonfireMobileApp:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:homeAsUpIndicator
+          @attr name com.FubiniCorp.BonfireMobileApp:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:homeLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:icon
+          @attr name com.FubiniCorp.BonfireMobileApp:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:indeterminateProgressStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4232,21 +4232,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:itemPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:logo
+          @attr name com.FubiniCorp.BonfireMobileApp:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4260,21 +4260,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:navigationMode
+          @attr name com.FubiniCorp.BonfireMobileApp:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:popupTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4286,21 +4286,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:progressBarPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:progressBarStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4310,21 +4310,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:subtitle
+          @attr name com.FubiniCorp.BonfireMobileApp:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:subtitleTextStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#title}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4334,17 +4334,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:title
+          @attr name com.FubiniCorp.BonfireMobileApp:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:titleTextStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4396,12 +4396,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.companyname.BonfireMobileApp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.companyname.BonfireMobileApp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.companyname.BonfireMobileApp:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.companyname.BonfireMobileApp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.companyname.BonfireMobileApp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.companyname.BonfireMobileApp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.FubiniCorp.BonfireMobileApp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.FubiniCorp.BonfireMobileApp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.FubiniCorp.BonfireMobileApp:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.FubiniCorp.BonfireMobileApp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.FubiniCorp.BonfireMobileApp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.FubiniCorp.BonfireMobileApp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4415,17 +4415,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002a, 0x7f01003a
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#background}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:background
+          @attr name com.FubiniCorp.BonfireMobileApp:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4433,21 +4433,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:backgroundSplit
+          @attr name com.FubiniCorp.BonfireMobileApp:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:closeItemLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#height}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4459,27 +4459,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:height
+          @attr name com.FubiniCorp.BonfireMobileApp:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:subtitleTextStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:titleTextStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4488,8 +4488,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.companyname.BonfireMobileApp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.companyname.BonfireMobileApp:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.FubiniCorp.BonfireMobileApp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.FubiniCorp.BonfireMobileApp:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4498,17 +4498,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01003b, 0x7f01003c
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:expandActivityOverflowButtonDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4518,7 +4518,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:initialActivityCount
+          @attr name com.FubiniCorp.BonfireMobileApp:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4528,12 +4528,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.companyname.BonfireMobileApp:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.companyname.BonfireMobileApp:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.companyname.BonfireMobileApp:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.companyname.BonfireMobileApp:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.companyname.BonfireMobileApp:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.companyname.BonfireMobileApp:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.FubiniCorp.BonfireMobileApp:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.FubiniCorp.BonfireMobileApp:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.FubiniCorp.BonfireMobileApp:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.FubiniCorp.BonfireMobileApp:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.FubiniCorp.BonfireMobileApp:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.FubiniCorp.BonfireMobileApp:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4554,47 +4554,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonPanelSideLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:listItemLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:listLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:multiChoiceItemLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4604,17 +4604,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:showTitle
+          @attr name com.FubiniCorp.BonfireMobileApp:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:singleChoiceItemLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4624,8 +4624,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.companyname.BonfireMobileApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.companyname.BonfireMobileApp:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.FubiniCorp.BonfireMobileApp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.FubiniCorp.BonfireMobileApp:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4641,7 +4641,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4653,11 +4653,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:elevation
+          @attr name com.FubiniCorp.BonfireMobileApp:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4667,7 +4667,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:expanded
+          @attr name com.FubiniCorp.BonfireMobileApp:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4676,8 +4676,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.companyname.BonfireMobileApp:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.companyname.BonfireMobileApp:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.FubiniCorp.BonfireMobileApp:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.FubiniCorp.BonfireMobileApp:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4686,7 +4686,7 @@ containing a value of this type.
             0x7f010104, 0x7f010105
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4696,11 +4696,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:state_collapsed
+          @attr name com.FubiniCorp.BonfireMobileApp:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4710,7 +4710,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:state_collapsible
+          @attr name com.FubiniCorp.BonfireMobileApp:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4719,8 +4719,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.companyname.BonfireMobileApp:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.companyname.BonfireMobileApp:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.FubiniCorp.BonfireMobileApp:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.FubiniCorp.BonfireMobileApp:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4729,7 +4729,7 @@ containing a value of this type.
             0x7f010106, 0x7f010107
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4745,17 +4745,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:layout_scrollFlags
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:layout_scrollInterpolator
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4765,9 +4765,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.companyname.BonfireMobileApp:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint com.companyname.BonfireMobileApp:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode com.companyname.BonfireMobileApp:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.FubiniCorp.BonfireMobileApp:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint com.FubiniCorp.BonfireMobileApp:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode com.FubiniCorp.BonfireMobileApp:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4784,17 +4784,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:srcCompat
+          @attr name com.FubiniCorp.BonfireMobileApp:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4805,11 +4805,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tint
+          @attr name com.FubiniCorp.BonfireMobileApp:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4825,7 +4825,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:tintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4835,9 +4835,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.companyname.BonfireMobileApp:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.companyname.BonfireMobileApp:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.companyname.BonfireMobileApp:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.FubiniCorp.BonfireMobileApp:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.FubiniCorp.BonfireMobileApp:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.FubiniCorp.BonfireMobileApp:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4854,17 +4854,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:tickMark
+          @attr name com.FubiniCorp.BonfireMobileApp:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4875,11 +4875,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tickMarkTint
+          @attr name com.FubiniCorp.BonfireMobileApp:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4896,7 +4896,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:tickMarkTintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4974,7 +4974,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.companyname.BonfireMobileApp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.FubiniCorp.BonfireMobileApp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4989,14 +4989,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.companyname.BonfireMobileApp:textAllCaps
+          @attr name com.FubiniCorp.BonfireMobileApp:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -5005,122 +5005,122 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.companyname.BonfireMobileApp:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.companyname.BonfireMobileApp:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.companyname.BonfireMobileApp:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.companyname.BonfireMobileApp:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.companyname.BonfireMobileApp:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.companyname.BonfireMobileApp:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.companyname.BonfireMobileApp:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.companyname.BonfireMobileApp:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.companyname.BonfireMobileApp:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.companyname.BonfireMobileApp:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.companyname.BonfireMobileApp:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.companyname.BonfireMobileApp:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.companyname.BonfireMobileApp:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.companyname.BonfireMobileApp:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.companyname.BonfireMobileApp:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.companyname.BonfireMobileApp:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.companyname.BonfireMobileApp:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.companyname.BonfireMobileApp:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.companyname.BonfireMobileApp:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.companyname.BonfireMobileApp:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.companyname.BonfireMobileApp:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.companyname.BonfireMobileApp:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.companyname.BonfireMobileApp:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.companyname.BonfireMobileApp:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.companyname.BonfireMobileApp:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.companyname.BonfireMobileApp:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.companyname.BonfireMobileApp:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.companyname.BonfireMobileApp:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.companyname.BonfireMobileApp:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.companyname.BonfireMobileApp:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.companyname.BonfireMobileApp:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.companyname.BonfireMobileApp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.companyname.BonfireMobileApp:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.companyname.BonfireMobileApp:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.companyname.BonfireMobileApp:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.FubiniCorp.BonfireMobileApp:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.FubiniCorp.BonfireMobileApp:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.FubiniCorp.BonfireMobileApp:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.FubiniCorp.BonfireMobileApp:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.FubiniCorp.BonfireMobileApp:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.FubiniCorp.BonfireMobileApp:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.FubiniCorp.BonfireMobileApp:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.FubiniCorp.BonfireMobileApp:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.FubiniCorp.BonfireMobileApp:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.FubiniCorp.BonfireMobileApp:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.FubiniCorp.BonfireMobileApp:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.FubiniCorp.BonfireMobileApp:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.FubiniCorp.BonfireMobileApp:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.FubiniCorp.BonfireMobileApp:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.FubiniCorp.BonfireMobileApp:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.FubiniCorp.BonfireMobileApp:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.FubiniCorp.BonfireMobileApp:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.FubiniCorp.BonfireMobileApp:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.FubiniCorp.BonfireMobileApp:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.FubiniCorp.BonfireMobileApp:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.FubiniCorp.BonfireMobileApp:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.FubiniCorp.BonfireMobileApp:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.FubiniCorp.BonfireMobileApp:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.FubiniCorp.BonfireMobileApp:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.FubiniCorp.BonfireMobileApp:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.FubiniCorp.BonfireMobileApp:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.FubiniCorp.BonfireMobileApp:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.FubiniCorp.BonfireMobileApp:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.FubiniCorp.BonfireMobileApp:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.FubiniCorp.BonfireMobileApp:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.FubiniCorp.BonfireMobileApp:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.FubiniCorp.BonfireMobileApp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.FubiniCorp.BonfireMobileApp:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.FubiniCorp.BonfireMobileApp:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.FubiniCorp.BonfireMobileApp:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.companyname.BonfireMobileApp:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.companyname.BonfireMobileApp:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.companyname.BonfireMobileApp:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.companyname.BonfireMobileApp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.companyname.BonfireMobileApp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.companyname.BonfireMobileApp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.companyname.BonfireMobileApp:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.companyname.BonfireMobileApp:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.companyname.BonfireMobileApp:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.companyname.BonfireMobileApp:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.companyname.BonfireMobileApp:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.companyname.BonfireMobileApp:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.companyname.BonfireMobileApp:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.companyname.BonfireMobileApp:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.companyname.BonfireMobileApp:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.companyname.BonfireMobileApp:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.companyname.BonfireMobileApp:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.companyname.BonfireMobileApp:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.companyname.BonfireMobileApp:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.companyname.BonfireMobileApp:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.companyname.BonfireMobileApp:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.companyname.BonfireMobileApp:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.companyname.BonfireMobileApp:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.companyname.BonfireMobileApp:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.companyname.BonfireMobileApp:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.companyname.BonfireMobileApp:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.companyname.BonfireMobileApp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.companyname.BonfireMobileApp:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.companyname.BonfireMobileApp:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.companyname.BonfireMobileApp:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.companyname.BonfireMobileApp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.companyname.BonfireMobileApp:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.companyname.BonfireMobileApp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.companyname.BonfireMobileApp:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.companyname.BonfireMobileApp:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.companyname.BonfireMobileApp:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.companyname.BonfireMobileApp:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.companyname.BonfireMobileApp:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.companyname.BonfireMobileApp:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.companyname.BonfireMobileApp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.companyname.BonfireMobileApp:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.companyname.BonfireMobileApp:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.companyname.BonfireMobileApp:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.companyname.BonfireMobileApp:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.companyname.BonfireMobileApp:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.companyname.BonfireMobileApp:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.companyname.BonfireMobileApp:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.companyname.BonfireMobileApp:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.companyname.BonfireMobileApp:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.companyname.BonfireMobileApp:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.companyname.BonfireMobileApp:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.companyname.BonfireMobileApp:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.companyname.BonfireMobileApp:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.companyname.BonfireMobileApp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.companyname.BonfireMobileApp:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.companyname.BonfireMobileApp:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.companyname.BonfireMobileApp:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.companyname.BonfireMobileApp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.companyname.BonfireMobileApp:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.companyname.BonfireMobileApp:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.companyname.BonfireMobileApp:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.companyname.BonfireMobileApp:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.companyname.BonfireMobileApp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.companyname.BonfireMobileApp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.companyname.BonfireMobileApp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.companyname.BonfireMobileApp:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.companyname.BonfireMobileApp:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.companyname.BonfireMobileApp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.companyname.BonfireMobileApp:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.companyname.BonfireMobileApp:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.companyname.BonfireMobileApp:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.companyname.BonfireMobileApp:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.companyname.BonfireMobileApp:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.companyname.BonfireMobileApp:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.companyname.BonfireMobileApp:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.companyname.BonfireMobileApp:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.companyname.BonfireMobileApp:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.companyname.BonfireMobileApp:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.companyname.BonfireMobileApp:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.FubiniCorp.BonfireMobileApp:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.FubiniCorp.BonfireMobileApp:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.FubiniCorp.BonfireMobileApp:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.FubiniCorp.BonfireMobileApp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.FubiniCorp.BonfireMobileApp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.FubiniCorp.BonfireMobileApp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.FubiniCorp.BonfireMobileApp:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.FubiniCorp.BonfireMobileApp:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.FubiniCorp.BonfireMobileApp:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.FubiniCorp.BonfireMobileApp:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.FubiniCorp.BonfireMobileApp:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.FubiniCorp.BonfireMobileApp:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.FubiniCorp.BonfireMobileApp:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.FubiniCorp.BonfireMobileApp:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.FubiniCorp.BonfireMobileApp:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.FubiniCorp.BonfireMobileApp:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.FubiniCorp.BonfireMobileApp:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.FubiniCorp.BonfireMobileApp:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.FubiniCorp.BonfireMobileApp:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.FubiniCorp.BonfireMobileApp:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.FubiniCorp.BonfireMobileApp:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.FubiniCorp.BonfireMobileApp:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.FubiniCorp.BonfireMobileApp:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.FubiniCorp.BonfireMobileApp:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.FubiniCorp.BonfireMobileApp:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.FubiniCorp.BonfireMobileApp:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.FubiniCorp.BonfireMobileApp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.FubiniCorp.BonfireMobileApp:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.FubiniCorp.BonfireMobileApp:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.FubiniCorp.BonfireMobileApp:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.FubiniCorp.BonfireMobileApp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.FubiniCorp.BonfireMobileApp:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.FubiniCorp.BonfireMobileApp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.FubiniCorp.BonfireMobileApp:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.FubiniCorp.BonfireMobileApp:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.FubiniCorp.BonfireMobileApp:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.FubiniCorp.BonfireMobileApp:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.FubiniCorp.BonfireMobileApp:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.FubiniCorp.BonfireMobileApp:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.FubiniCorp.BonfireMobileApp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.FubiniCorp.BonfireMobileApp:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.FubiniCorp.BonfireMobileApp:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.FubiniCorp.BonfireMobileApp:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.FubiniCorp.BonfireMobileApp:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.FubiniCorp.BonfireMobileApp:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.FubiniCorp.BonfireMobileApp:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.FubiniCorp.BonfireMobileApp:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.FubiniCorp.BonfireMobileApp:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.FubiniCorp.BonfireMobileApp:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.FubiniCorp.BonfireMobileApp:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.FubiniCorp.BonfireMobileApp:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.FubiniCorp.BonfireMobileApp:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.FubiniCorp.BonfireMobileApp:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.FubiniCorp.BonfireMobileApp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.FubiniCorp.BonfireMobileApp:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.FubiniCorp.BonfireMobileApp:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.FubiniCorp.BonfireMobileApp:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.FubiniCorp.BonfireMobileApp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.FubiniCorp.BonfireMobileApp:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.FubiniCorp.BonfireMobileApp:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.FubiniCorp.BonfireMobileApp:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.FubiniCorp.BonfireMobileApp:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.FubiniCorp.BonfireMobileApp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.FubiniCorp.BonfireMobileApp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.FubiniCorp.BonfireMobileApp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.FubiniCorp.BonfireMobileApp:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.FubiniCorp.BonfireMobileApp:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.FubiniCorp.BonfireMobileApp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.FubiniCorp.BonfireMobileApp:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.FubiniCorp.BonfireMobileApp:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.FubiniCorp.BonfireMobileApp:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.FubiniCorp.BonfireMobileApp:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.FubiniCorp.BonfireMobileApp:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.FubiniCorp.BonfireMobileApp:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.FubiniCorp.BonfireMobileApp:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.FubiniCorp.BonfireMobileApp:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.FubiniCorp.BonfireMobileApp:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.FubiniCorp.BonfireMobileApp:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.FubiniCorp.BonfireMobileApp:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5271,37 +5271,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b8, 0x7f0100b9, 0x7f0100ba, 0x7f0100bb
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarDivider
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarItemBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarPopupTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5321,111 +5321,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:actionBarSize
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarSplitStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarTabBarStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarTabStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarTabTextStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionBarWidgetTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionDropDownStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionMenuTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5433,181 +5433,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionMenuTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeCloseButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeCloseDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeCopyDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeCutDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeFindDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModePasteDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModePopupWindowStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeSelectAllDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeShareDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeSplitBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionModeWebSearchDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionOverflowButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionOverflowMenuStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:activityChooserViewStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:alertDialogButtonGroupStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5617,27 +5617,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:alertDialogCenterButtons
+          @attr name com.FubiniCorp.BonfireMobileApp:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:alertDialogStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:alertDialogTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5653,117 +5653,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:autoCompleteTextViewStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:borderlessButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonBarButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonBarNegativeButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonBarNeutralButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonBarPositiveButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonBarStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:buttonStyleSmall
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:checkboxStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:checkedTextViewStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5774,11 +5774,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorAccent
+          @attr name com.FubiniCorp.BonfireMobileApp:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5789,11 +5789,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorBackgroundFloating
+          @attr name com.FubiniCorp.BonfireMobileApp:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5804,11 +5804,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorButtonNormal
+          @attr name com.FubiniCorp.BonfireMobileApp:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5819,11 +5819,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorControlActivated
+          @attr name com.FubiniCorp.BonfireMobileApp:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5834,11 +5834,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorControlHighlight
+          @attr name com.FubiniCorp.BonfireMobileApp:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5849,11 +5849,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorControlNormal
+          @attr name com.FubiniCorp.BonfireMobileApp:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5864,11 +5864,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorPrimary
+          @attr name com.FubiniCorp.BonfireMobileApp:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5879,11 +5879,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorPrimaryDark
+          @attr name com.FubiniCorp.BonfireMobileApp:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5894,21 +5894,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:colorSwitchThumbNormal
+          @attr name com.FubiniCorp.BonfireMobileApp:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:controlBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5920,51 +5920,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:dialogPreferredPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:dialogTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:dividerHorizontal
+          @attr name com.FubiniCorp.BonfireMobileApp:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:dividerVertical
+          @attr name com.FubiniCorp.BonfireMobileApp:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:dropDownListViewStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5976,21 +5976,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:dropdownListPreferredItemHeight
+          @attr name com.FubiniCorp.BonfireMobileApp:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:editTextBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5998,81 +5998,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:editTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:editTextStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:homeAsUpIndicator
+          @attr name com.FubiniCorp.BonfireMobileApp:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:imageButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:listChoiceBackgroundIndicator
+          @attr name com.FubiniCorp.BonfireMobileApp:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:listDividerAlertDialog
+          @attr name com.FubiniCorp.BonfireMobileApp:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:listMenuViewStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:listPopupWindowStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6084,11 +6084,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:listPreferredItemHeight
+          @attr name com.FubiniCorp.BonfireMobileApp:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6100,11 +6100,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:listPreferredItemHeightLarge
+          @attr name com.FubiniCorp.BonfireMobileApp:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6116,11 +6116,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:listPreferredItemHeightSmall
+          @attr name com.FubiniCorp.BonfireMobileApp:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6132,11 +6132,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:listPreferredItemPaddingLeft
+          @attr name com.FubiniCorp.BonfireMobileApp:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6148,31 +6148,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:listPreferredItemPaddingRight
+          @attr name com.FubiniCorp.BonfireMobileApp:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:panelBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:panelMenuListTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6184,221 +6184,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:panelMenuListWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:popupMenuStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:popupWindowStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:radioButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:ratingBarStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:ratingBarStyleIndicator
+          @attr name com.FubiniCorp.BonfireMobileApp:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:ratingBarStyleSmall
+          @attr name com.FubiniCorp.BonfireMobileApp:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:searchViewStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:seekBarStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:selectableItemBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:selectableItemBackgroundBorderless
+          @attr name com.FubiniCorp.BonfireMobileApp:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:spinnerDropDownItemStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:spinnerStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:switchStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearanceLargePopupMenu
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearanceListItem
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearanceListItemSecondary
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearanceListItemSmall
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearancePopupMenuHeader
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearanceSearchResultSubtitle
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearanceSearchResultTitle
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textAppearanceSmallPopupMenu
+          @attr name com.FubiniCorp.BonfireMobileApp:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6406,11 +6406,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textColorAlertDialogListItem
+          @attr name com.FubiniCorp.BonfireMobileApp:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6418,31 +6418,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:textColorSearchUrl
+          @attr name com.FubiniCorp.BonfireMobileApp:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:toolbarNavigationButtonStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:toolbarStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6452,11 +6452,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowActionBar
+          @attr name com.FubiniCorp.BonfireMobileApp:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6466,11 +6466,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowActionBarOverlay
+          @attr name com.FubiniCorp.BonfireMobileApp:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6480,11 +6480,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowActionModeOverlay
+          @attr name com.FubiniCorp.BonfireMobileApp:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6499,11 +6499,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowFixedHeightMajor
+          @attr name com.FubiniCorp.BonfireMobileApp:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6518,11 +6518,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowFixedHeightMinor
+          @attr name com.FubiniCorp.BonfireMobileApp:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6537,11 +6537,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowFixedWidthMajor
+          @attr name com.FubiniCorp.BonfireMobileApp:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6556,11 +6556,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowFixedWidthMinor
+          @attr name com.FubiniCorp.BonfireMobileApp:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6575,11 +6575,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowMinWidthMajor
+          @attr name com.FubiniCorp.BonfireMobileApp:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6594,11 +6594,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowMinWidthMinor
+          @attr name com.FubiniCorp.BonfireMobileApp:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6608,7 +6608,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:windowNoTitle
+          @attr name com.FubiniCorp.BonfireMobileApp:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6617,11 +6617,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.companyname.BonfireMobileApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.companyname.BonfireMobileApp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.companyname.BonfireMobileApp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.companyname.BonfireMobileApp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.companyname.BonfireMobileApp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.FubiniCorp.BonfireMobileApp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.FubiniCorp.BonfireMobileApp:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.FubiniCorp.BonfireMobileApp:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.FubiniCorp.BonfireMobileApp:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.FubiniCorp.BonfireMobileApp:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6634,7 +6634,7 @@ containing a value of this type.
             0x7f010131
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6646,21 +6646,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:elevation
+          @attr name com.FubiniCorp.BonfireMobileApp:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:itemBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6671,11 +6671,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:itemIconTint
+          @attr name com.FubiniCorp.BonfireMobileApp:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6686,17 +6686,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:itemTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:menu
+          @attr name com.FubiniCorp.BonfireMobileApp:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6705,9 +6705,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.companyname.BonfireMobileApp:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.companyname.BonfireMobileApp:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.companyname.BonfireMobileApp:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.FubiniCorp.BonfireMobileApp:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.FubiniCorp.BonfireMobileApp:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.FubiniCorp.BonfireMobileApp:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6717,7 +6717,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010108, 0x7f010109, 0x7f01010a
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6727,11 +6727,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:behavior_hideable
+          @attr name com.FubiniCorp.BonfireMobileApp:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6751,11 +6751,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:behavior_peekHeight
+          @attr name com.FubiniCorp.BonfireMobileApp:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6765,7 +6765,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:behavior_skipCollapsed
+          @attr name com.FubiniCorp.BonfireMobileApp:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6774,7 +6774,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.companyname.BonfireMobileApp:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.FubiniCorp.BonfireMobileApp:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6782,7 +6782,7 @@ containing a value of this type.
             0x7f0100bc
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6792,7 +6792,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:allowStacking
+          @attr name com.FubiniCorp.BonfireMobileApp:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6803,17 +6803,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.companyname.BonfireMobileApp:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.companyname.BonfireMobileApp:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.companyname.BonfireMobileApp:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.companyname.BonfireMobileApp:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.companyname.BonfireMobileApp:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.companyname.BonfireMobileApp:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.companyname.BonfireMobileApp:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.companyname.BonfireMobileApp:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.companyname.BonfireMobileApp:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.companyname.BonfireMobileApp:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.companyname.BonfireMobileApp:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.FubiniCorp.BonfireMobileApp:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.FubiniCorp.BonfireMobileApp:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.FubiniCorp.BonfireMobileApp:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.FubiniCorp.BonfireMobileApp:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.FubiniCorp.BonfireMobileApp:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.FubiniCorp.BonfireMobileApp:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.FubiniCorp.BonfireMobileApp:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.FubiniCorp.BonfireMobileApp:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.FubiniCorp.BonfireMobileApp:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.FubiniCorp.BonfireMobileApp:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.FubiniCorp.BonfireMobileApp:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6848,7 +6848,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6859,11 +6859,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:cardBackgroundColor
+          @attr name com.FubiniCorp.BonfireMobileApp:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6875,11 +6875,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:cardCornerRadius
+          @attr name com.FubiniCorp.BonfireMobileApp:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6891,11 +6891,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:cardElevation
+          @attr name com.FubiniCorp.BonfireMobileApp:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6907,11 +6907,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:cardMaxElevation
+          @attr name com.FubiniCorp.BonfireMobileApp:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6921,11 +6921,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:cardPreventCornerOverlap
+          @attr name com.FubiniCorp.BonfireMobileApp:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6935,11 +6935,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:cardUseCompatPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6951,11 +6951,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6967,11 +6967,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentPaddingBottom
+          @attr name com.FubiniCorp.BonfireMobileApp:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6983,11 +6983,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentPaddingLeft
+          @attr name com.FubiniCorp.BonfireMobileApp:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6999,11 +6999,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentPaddingRight
+          @attr name com.FubiniCorp.BonfireMobileApp:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7015,7 +7015,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentPaddingTop
+          @attr name com.FubiniCorp.BonfireMobileApp:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7024,22 +7024,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.companyname.BonfireMobileApp:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.companyname.BonfireMobileApp:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.companyname.BonfireMobileApp:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.companyname.BonfireMobileApp:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.companyname.BonfireMobileApp:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.companyname.BonfireMobileApp:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.companyname.BonfireMobileApp:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.companyname.BonfireMobileApp:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.companyname.BonfireMobileApp:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.companyname.BonfireMobileApp:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.companyname.BonfireMobileApp:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.companyname.BonfireMobileApp:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.companyname.BonfireMobileApp:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.companyname.BonfireMobileApp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.companyname.BonfireMobileApp:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.companyname.BonfireMobileApp:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.FubiniCorp.BonfireMobileApp:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.FubiniCorp.BonfireMobileApp:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.FubiniCorp.BonfireMobileApp:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.FubiniCorp.BonfireMobileApp:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.FubiniCorp.BonfireMobileApp:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.FubiniCorp.BonfireMobileApp:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.FubiniCorp.BonfireMobileApp:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.FubiniCorp.BonfireMobileApp:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.FubiniCorp.BonfireMobileApp:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.FubiniCorp.BonfireMobileApp:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.FubiniCorp.BonfireMobileApp:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.FubiniCorp.BonfireMobileApp:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.FubiniCorp.BonfireMobileApp:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.FubiniCorp.BonfireMobileApp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.FubiniCorp.BonfireMobileApp:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.FubiniCorp.BonfireMobileApp:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7065,7 +7065,7 @@ containing a value of this type.
             0x7f010116, 0x7f010117, 0x7f010118, 0x7f010119
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7086,21 +7086,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:collapsedTitleGravity
+          @attr name com.FubiniCorp.BonfireMobileApp:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:collapsedTitleTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7111,11 +7111,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentScrim
+          @attr name com.FubiniCorp.BonfireMobileApp:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7136,11 +7136,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:expandedTitleGravity
+          @attr name com.FubiniCorp.BonfireMobileApp:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7152,11 +7152,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:expandedTitleMargin
+          @attr name com.FubiniCorp.BonfireMobileApp:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7168,11 +7168,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:expandedTitleMarginBottom
+          @attr name com.FubiniCorp.BonfireMobileApp:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7184,11 +7184,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:expandedTitleMarginEnd
+          @attr name com.FubiniCorp.BonfireMobileApp:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7200,11 +7200,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:expandedTitleMarginStart
+          @attr name com.FubiniCorp.BonfireMobileApp:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7216,21 +7216,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:expandedTitleMarginTop
+          @attr name com.FubiniCorp.BonfireMobileApp:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:expandedTitleTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7240,11 +7240,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:scrimAnimationDuration
+          @attr name com.FubiniCorp.BonfireMobileApp:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7256,11 +7256,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:scrimVisibleHeightTrigger
+          @attr name com.FubiniCorp.BonfireMobileApp:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7271,11 +7271,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:statusBarScrim
+          @attr name com.FubiniCorp.BonfireMobileApp:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#title}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7285,11 +7285,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:title
+          @attr name com.FubiniCorp.BonfireMobileApp:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7299,17 +7299,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleEnabled
+          @attr name com.FubiniCorp.BonfireMobileApp:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:toolbarId
+          @attr name com.FubiniCorp.BonfireMobileApp:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7318,8 +7318,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.companyname.BonfireMobileApp:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.companyname.BonfireMobileApp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.FubiniCorp.BonfireMobileApp:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.FubiniCorp.BonfireMobileApp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7328,7 +7328,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01011a, 0x7f01011b
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7342,11 +7342,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:layout_collapseMode
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7356,7 +7356,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:layout_collapseParallaxMultiplier
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7365,7 +7365,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.companyname.BonfireMobileApp:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.FubiniCorp.BonfireMobileApp:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7377,7 +7377,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100bd
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7387,7 +7387,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:alpha
+          @attr name com.FubiniCorp.BonfireMobileApp:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7409,8 +7409,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.companyname.BonfireMobileApp:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.companyname.BonfireMobileApp:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.FubiniCorp.BonfireMobileApp:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.FubiniCorp.BonfireMobileApp:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7426,7 +7426,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7437,11 +7437,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:buttonTint
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7457,7 +7457,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:buttonTintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7466,8 +7466,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.companyname.BonfireMobileApp:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.companyname.BonfireMobileApp:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.FubiniCorp.BonfireMobileApp:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.FubiniCorp.BonfireMobileApp:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7476,23 +7476,23 @@ containing a value of this type.
             0x7f01011c, 0x7f01011d
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:keylines
+          @attr name com.FubiniCorp.BonfireMobileApp:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:statusBarBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7502,12 +7502,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.companyname.BonfireMobileApp:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.companyname.BonfireMobileApp:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.companyname.BonfireMobileApp:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.companyname.BonfireMobileApp:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.companyname.BonfireMobileApp:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.companyname.BonfireMobileApp:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.FubiniCorp.BonfireMobileApp:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.FubiniCorp.BonfireMobileApp:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.FubiniCorp.BonfireMobileApp:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.FubiniCorp.BonfireMobileApp:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.FubiniCorp.BonfireMobileApp:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.FubiniCorp.BonfireMobileApp:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7528,17 +7528,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:layout_anchor
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7563,11 +7563,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:layout_anchorGravity
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7577,11 +7577,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:layout_behavior
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7600,11 +7600,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:layout_dodgeInsetEdges
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7622,11 +7622,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:layout_insetEdge
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7636,7 +7636,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:layout_keyline
+          @attr name com.FubiniCorp.BonfireMobileApp:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7645,9 +7645,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.companyname.BonfireMobileApp:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.companyname.BonfireMobileApp:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.companyname.BonfireMobileApp:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.FubiniCorp.BonfireMobileApp:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.FubiniCorp.BonfireMobileApp:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.FubiniCorp.BonfireMobileApp:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7657,27 +7657,27 @@ containing a value of this type.
             0x7f010124, 0x7f010125, 0x7f010126
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:bottomSheetDialogTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:bottomSheetStyle
+          @attr name com.FubiniCorp.BonfireMobileApp:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7688,7 +7688,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:textColorError
+          @attr name com.FubiniCorp.BonfireMobileApp:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7697,14 +7697,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.companyname.BonfireMobileApp:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.companyname.BonfireMobileApp:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.companyname.BonfireMobileApp:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.companyname.BonfireMobileApp:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.companyname.BonfireMobileApp:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.companyname.BonfireMobileApp:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.companyname.BonfireMobileApp:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.companyname.BonfireMobileApp:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.FubiniCorp.BonfireMobileApp:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.FubiniCorp.BonfireMobileApp:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.FubiniCorp.BonfireMobileApp:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.FubiniCorp.BonfireMobileApp:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.FubiniCorp.BonfireMobileApp:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.FubiniCorp.BonfireMobileApp:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.FubiniCorp.BonfireMobileApp:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.FubiniCorp.BonfireMobileApp:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7720,7 +7720,7 @@ containing a value of this type.
             0x7f0100c4, 0x7f0100c5, 0x7f0100c6, 0x7f0100c7
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7732,11 +7732,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:arrowHeadLength
+          @attr name com.FubiniCorp.BonfireMobileApp:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7748,11 +7748,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:arrowShaftLength
+          @attr name com.FubiniCorp.BonfireMobileApp:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7764,11 +7764,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:barLength
+          @attr name com.FubiniCorp.BonfireMobileApp:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#color}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7779,11 +7779,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:color
+          @attr name com.FubiniCorp.BonfireMobileApp:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7795,11 +7795,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:drawableSize
+          @attr name com.FubiniCorp.BonfireMobileApp:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7811,11 +7811,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:gapBetweenBars
+          @attr name com.FubiniCorp.BonfireMobileApp:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7825,11 +7825,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:spinBars
+          @attr name com.FubiniCorp.BonfireMobileApp:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7841,7 +7841,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:thickness
+          @attr name com.FubiniCorp.BonfireMobileApp:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7850,14 +7850,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.companyname.BonfireMobileApp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.companyname.BonfireMobileApp:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.companyname.BonfireMobileApp:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.companyname.BonfireMobileApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.companyname.BonfireMobileApp:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.companyname.BonfireMobileApp:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.companyname.BonfireMobileApp:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.companyname.BonfireMobileApp:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.FubiniCorp.BonfireMobileApp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.FubiniCorp.BonfireMobileApp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.FubiniCorp.BonfireMobileApp:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.FubiniCorp.BonfireMobileApp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.FubiniCorp.BonfireMobileApp:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.FubiniCorp.BonfireMobileApp:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.FubiniCorp.BonfireMobileApp:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.FubiniCorp.BonfireMobileApp:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7873,7 +7873,7 @@ containing a value of this type.
             0x7f010128, 0x7f010129, 0x7f01012a, 0x7f01012b
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7884,11 +7884,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:backgroundTint
+          @attr name com.FubiniCorp.BonfireMobileApp:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7904,11 +7904,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:backgroundTintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7920,11 +7920,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:borderWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7936,11 +7936,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:elevation
+          @attr name com.FubiniCorp.BonfireMobileApp:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7954,11 +7954,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:fabSize
+          @attr name com.FubiniCorp.BonfireMobileApp:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7970,11 +7970,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:pressedTranslationZ
+          @attr name com.FubiniCorp.BonfireMobileApp:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7985,11 +7985,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:rippleColor
+          @attr name com.FubiniCorp.BonfireMobileApp:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7999,7 +7999,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:useCompatPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -8008,7 +8008,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.companyname.BonfireMobileApp:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.FubiniCorp.BonfireMobileApp:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -8016,7 +8016,7 @@ containing a value of this type.
             0x7f01012c
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -8026,7 +8026,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:behavior_autoHide
+          @attr name com.FubiniCorp.BonfireMobileApp:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -8037,7 +8037,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.companyname.BonfireMobileApp:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.FubiniCorp.BonfireMobileApp:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8059,7 +8059,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -8069,7 +8069,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:foregroundInsidePadding
+          @attr name com.FubiniCorp.BonfireMobileApp:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -8083,10 +8083,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.companyname.BonfireMobileApp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.companyname.BonfireMobileApp:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.companyname.BonfireMobileApp:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.companyname.BonfireMobileApp:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.FubiniCorp.BonfireMobileApp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.FubiniCorp.BonfireMobileApp:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.FubiniCorp.BonfireMobileApp:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.FubiniCorp.BonfireMobileApp:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8134,17 +8134,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:divider
+          @attr name com.FubiniCorp.BonfireMobileApp:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8156,11 +8156,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:dividerPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8170,11 +8170,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:measureWithLargestChild
+          @attr name com.FubiniCorp.BonfireMobileApp:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8189,7 +8189,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:showDividers
+          @attr name com.FubiniCorp.BonfireMobileApp:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8270,8 +8270,8 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_buttonTint com.companyname.BonfireMobileApp:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.companyname.BonfireMobileApp:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_buttonTint com.FubiniCorp.BonfireMobileApp:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.FubiniCorp.BonfireMobileApp:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -8294,7 +8294,7 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonTint}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
@@ -8305,17 +8305,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:buttonTint
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonTint
         */
         public static final int MediaRouteButton_buttonTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:externalRouteEnabledDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 2;
         /** Attributes that can be used with a MenuGroup.
@@ -8384,9 +8384,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.companyname.BonfireMobileApp:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.companyname.BonfireMobileApp:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.companyname.BonfireMobileApp:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.FubiniCorp.BonfireMobileApp:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.FubiniCorp.BonfireMobileApp:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.FubiniCorp.BonfireMobileApp:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8400,7 +8400,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.companyname.BonfireMobileApp:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.FubiniCorp.BonfireMobileApp:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8428,17 +8428,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ce
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:actionLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8448,11 +8448,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:actionProviderClass
+          @attr name com.FubiniCorp.BonfireMobileApp:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8462,7 +8462,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:actionViewClass
+          @attr name com.FubiniCorp.BonfireMobileApp:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8544,7 +8544,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8560,7 +8560,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:showAsAction
+          @attr name com.FubiniCorp.BonfireMobileApp:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -8576,8 +8576,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.companyname.BonfireMobileApp:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.companyname.BonfireMobileApp:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.FubiniCorp.BonfireMobileApp:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.FubiniCorp.BonfireMobileApp:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8637,7 +8637,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8647,17 +8647,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:preserveIconSpacing
+          @attr name com.FubiniCorp.BonfireMobileApp:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:subMenuArrow
+          @attr name com.FubiniCorp.BonfireMobileApp:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8669,13 +8669,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.companyname.BonfireMobileApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.companyname.BonfireMobileApp:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.companyname.BonfireMobileApp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.companyname.BonfireMobileApp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.companyname.BonfireMobileApp:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.companyname.BonfireMobileApp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.companyname.BonfireMobileApp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.FubiniCorp.BonfireMobileApp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.FubiniCorp.BonfireMobileApp:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.FubiniCorp.BonfireMobileApp:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.FubiniCorp.BonfireMobileApp:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.FubiniCorp.BonfireMobileApp:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.FubiniCorp.BonfireMobileApp:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.FubiniCorp.BonfireMobileApp:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8712,7 +8712,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8724,31 +8724,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:elevation
+          @attr name com.FubiniCorp.BonfireMobileApp:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:headerLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:itemBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8759,21 +8759,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:itemIconTint
+          @attr name com.FubiniCorp.BonfireMobileApp:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:itemTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8784,17 +8784,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:itemTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:menu
+          @attr name com.FubiniCorp.BonfireMobileApp:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8805,7 +8805,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.companyname.BonfireMobileApp:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.FubiniCorp.BonfireMobileApp:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8827,7 +8827,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8837,7 +8837,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:overlapAnchor
+          @attr name com.FubiniCorp.BonfireMobileApp:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8846,7 +8846,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.companyname.BonfireMobileApp:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.FubiniCorp.BonfireMobileApp:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8854,7 +8854,7 @@ containing a value of this type.
             0x7f0100d2
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8864,7 +8864,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:state_above_anchor
+          @attr name com.FubiniCorp.BonfireMobileApp:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a ProgressWheel.
@@ -8873,18 +8873,18 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ProgressWheel_ahBarColor com.companyname.BonfireMobileApp:ahBarColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahBarLength com.companyname.BonfireMobileApp:ahBarLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahBarWidth com.companyname.BonfireMobileApp:ahBarWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahCircleColor com.companyname.BonfireMobileApp:ahCircleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahDelayMillis com.companyname.BonfireMobileApp:ahDelayMillis}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahRadius com.companyname.BonfireMobileApp:ahRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahRimColor com.companyname.BonfireMobileApp:ahRimColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahRimWidth com.companyname.BonfireMobileApp:ahRimWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahSpinSpeed com.companyname.BonfireMobileApp:ahSpinSpeed}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahText com.companyname.BonfireMobileApp:ahText}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahTextColor com.companyname.BonfireMobileApp:ahTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressWheel_ahTextSize com.companyname.BonfireMobileApp:ahTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahBarColor com.FubiniCorp.BonfireMobileApp:ahBarColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahBarLength com.FubiniCorp.BonfireMobileApp:ahBarLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahBarWidth com.FubiniCorp.BonfireMobileApp:ahBarWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahCircleColor com.FubiniCorp.BonfireMobileApp:ahCircleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahDelayMillis com.FubiniCorp.BonfireMobileApp:ahDelayMillis}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahRadius com.FubiniCorp.BonfireMobileApp:ahRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahRimColor com.FubiniCorp.BonfireMobileApp:ahRimColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahRimWidth com.FubiniCorp.BonfireMobileApp:ahRimWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahSpinSpeed com.FubiniCorp.BonfireMobileApp:ahSpinSpeed}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahText com.FubiniCorp.BonfireMobileApp:ahText}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahTextColor com.FubiniCorp.BonfireMobileApp:ahTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressWheel_ahTextSize com.FubiniCorp.BonfireMobileApp:ahTextSize}</code></td><td></td></tr>
            </table>
            @see #ProgressWheel_ahBarColor
            @see #ProgressWheel_ahBarLength
@@ -8905,7 +8905,7 @@ containing a value of this type.
             0x7f01015d, 0x7f01015e, 0x7f01015f, 0x7f010160
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahBarColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahBarColor}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -8916,11 +8916,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahBarColor
+          @attr name com.FubiniCorp.BonfireMobileApp:ahBarColor
         */
         public static final int ProgressWheel_ahBarColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahBarLength}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahBarLength}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -8932,11 +8932,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahBarLength
+          @attr name com.FubiniCorp.BonfireMobileApp:ahBarLength
         */
         public static final int ProgressWheel_ahBarLength = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahBarWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahBarWidth}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -8948,11 +8948,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahBarWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:ahBarWidth
         */
         public static final int ProgressWheel_ahBarWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahCircleColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahCircleColor}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -8963,11 +8963,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahCircleColor
+          @attr name com.FubiniCorp.BonfireMobileApp:ahCircleColor
         */
         public static final int ProgressWheel_ahCircleColor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahDelayMillis}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahDelayMillis}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -8977,11 +8977,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahDelayMillis
+          @attr name com.FubiniCorp.BonfireMobileApp:ahDelayMillis
         */
         public static final int ProgressWheel_ahDelayMillis = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahRadius}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahRadius}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -8993,11 +8993,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahRadius
+          @attr name com.FubiniCorp.BonfireMobileApp:ahRadius
         */
         public static final int ProgressWheel_ahRadius = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahRimColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahRimColor}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -9008,11 +9008,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahRimColor
+          @attr name com.FubiniCorp.BonfireMobileApp:ahRimColor
         */
         public static final int ProgressWheel_ahRimColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahRimWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahRimWidth}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -9024,11 +9024,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahRimWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:ahRimWidth
         */
         public static final int ProgressWheel_ahRimWidth = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahSpinSpeed}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahSpinSpeed}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -9040,11 +9040,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahSpinSpeed
+          @attr name com.FubiniCorp.BonfireMobileApp:ahSpinSpeed
         */
         public static final int ProgressWheel_ahSpinSpeed = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahText}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahText}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -9054,11 +9054,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahText
+          @attr name com.FubiniCorp.BonfireMobileApp:ahText
         */
         public static final int ProgressWheel_ahText = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahTextColor}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -9069,11 +9069,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:ahTextColor
         */
         public static final int ProgressWheel_ahTextColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#ahTextSize}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#ahTextSize}
           attribute's value can be found in the {@link #ProgressWheel} array.
 
 
@@ -9085,7 +9085,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:ahTextSize
+          @attr name com.FubiniCorp.BonfireMobileApp:ahTextSize
         */
         public static final int ProgressWheel_ahTextSize = 2;
         /** Attributes that can be used with a RecycleListView.
@@ -9094,8 +9094,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.companyname.BonfireMobileApp:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.companyname.BonfireMobileApp:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.FubiniCorp.BonfireMobileApp:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.FubiniCorp.BonfireMobileApp:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -9104,7 +9104,7 @@ containing a value of this type.
             0x7f0100d3, 0x7f0100d4
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -9116,11 +9116,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:paddingBottomNoButtons
+          @attr name com.FubiniCorp.BonfireMobileApp:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -9132,7 +9132,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:paddingTopNoTitle
+          @attr name com.FubiniCorp.BonfireMobileApp:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -9143,10 +9143,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.companyname.BonfireMobileApp:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.companyname.BonfireMobileApp:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.companyname.BonfireMobileApp:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.companyname.BonfireMobileApp:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.FubiniCorp.BonfireMobileApp:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.FubiniCorp.BonfireMobileApp:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.FubiniCorp.BonfireMobileApp:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.FubiniCorp.BonfireMobileApp:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -9172,7 +9172,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9182,11 +9182,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:layoutManager
+          @attr name com.FubiniCorp.BonfireMobileApp:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9196,11 +9196,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:reverseLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9210,11 +9210,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:spanCount
+          @attr name com.FubiniCorp.BonfireMobileApp:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9224,7 +9224,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:stackFromEnd
+          @attr name com.FubiniCorp.BonfireMobileApp:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9233,7 +9233,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.companyname.BonfireMobileApp:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.FubiniCorp.BonfireMobileApp:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9241,7 +9241,7 @@ containing a value of this type.
             0x7f010134
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9249,7 +9249,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.companyname.BonfireMobileApp:insetForeground
+          @attr name com.FubiniCorp.BonfireMobileApp:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9258,7 +9258,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.companyname.BonfireMobileApp:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.FubiniCorp.BonfireMobileApp:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9266,7 +9266,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010135
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9278,7 +9278,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:behavior_overlapTop
+          @attr name com.FubiniCorp.BonfireMobileApp:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9291,19 +9291,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.companyname.BonfireMobileApp:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.companyname.BonfireMobileApp:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.companyname.BonfireMobileApp:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.companyname.BonfireMobileApp:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.companyname.BonfireMobileApp:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.companyname.BonfireMobileApp:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.companyname.BonfireMobileApp:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.companyname.BonfireMobileApp:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.companyname.BonfireMobileApp:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.companyname.BonfireMobileApp:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.companyname.BonfireMobileApp:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.companyname.BonfireMobileApp:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.companyname.BonfireMobileApp:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.FubiniCorp.BonfireMobileApp:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.FubiniCorp.BonfireMobileApp:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.FubiniCorp.BonfireMobileApp:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.FubiniCorp.BonfireMobileApp:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.FubiniCorp.BonfireMobileApp:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.FubiniCorp.BonfireMobileApp:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.FubiniCorp.BonfireMobileApp:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.FubiniCorp.BonfireMobileApp:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.FubiniCorp.BonfireMobileApp:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.FubiniCorp.BonfireMobileApp:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.FubiniCorp.BonfireMobileApp:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.FubiniCorp.BonfireMobileApp:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.FubiniCorp.BonfireMobileApp:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9355,27 +9355,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:closeIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:commitIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9385,21 +9385,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:defaultQueryHint
+          @attr name com.FubiniCorp.BonfireMobileApp:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:goIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9409,31 +9409,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:iconifiedByDefault
+          @attr name com.FubiniCorp.BonfireMobileApp:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:layout
+          @attr name com.FubiniCorp.BonfireMobileApp:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:queryBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9443,57 +9443,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:queryHint
+          @attr name com.FubiniCorp.BonfireMobileApp:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:searchHintIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:searchIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:submitBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:suggestionRowLayout
+          @attr name com.FubiniCorp.BonfireMobileApp:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:voiceIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9503,8 +9503,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.companyname.BonfireMobileApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.companyname.BonfireMobileApp:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.FubiniCorp.BonfireMobileApp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.FubiniCorp.BonfireMobileApp:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9520,7 +9520,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9532,11 +9532,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:elevation
+          @attr name com.FubiniCorp.BonfireMobileApp:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9548,7 +9548,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:maxActionInlineWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -9561,7 +9561,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.companyname.BonfireMobileApp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.FubiniCorp.BonfireMobileApp:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9598,13 +9598,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:popupTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9616,17 +9616,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.companyname.BonfireMobileApp:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.companyname.BonfireMobileApp:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.companyname.BonfireMobileApp:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.companyname.BonfireMobileApp:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.companyname.BonfireMobileApp:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.companyname.BonfireMobileApp:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.companyname.BonfireMobileApp:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.companyname.BonfireMobileApp:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.companyname.BonfireMobileApp:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.companyname.BonfireMobileApp:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.companyname.BonfireMobileApp:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.FubiniCorp.BonfireMobileApp:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.FubiniCorp.BonfireMobileApp:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.FubiniCorp.BonfireMobileApp:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.FubiniCorp.BonfireMobileApp:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.FubiniCorp.BonfireMobileApp:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.FubiniCorp.BonfireMobileApp:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.FubiniCorp.BonfireMobileApp:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.FubiniCorp.BonfireMobileApp:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.FubiniCorp.BonfireMobileApp:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.FubiniCorp.BonfireMobileApp:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.FubiniCorp.BonfireMobileApp:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9668,7 +9668,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9678,11 +9678,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:showText
+          @attr name com.FubiniCorp.BonfireMobileApp:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9692,11 +9692,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:splitTrack
+          @attr name com.FubiniCorp.BonfireMobileApp:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9708,11 +9708,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:switchMinWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9724,21 +9724,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:switchPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:switchTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9750,11 +9750,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:thumbTextPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9765,11 +9765,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:thumbTint
+          @attr name com.FubiniCorp.BonfireMobileApp:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9786,21 +9786,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:thumbTintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#track}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:track
+          @attr name com.FubiniCorp.BonfireMobileApp:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9811,11 +9811,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:trackTint
+          @attr name com.FubiniCorp.BonfireMobileApp:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9832,7 +9832,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:trackTintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9876,22 +9876,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.companyname.BonfireMobileApp:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.companyname.BonfireMobileApp:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.companyname.BonfireMobileApp:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.companyname.BonfireMobileApp:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.companyname.BonfireMobileApp:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.companyname.BonfireMobileApp:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.companyname.BonfireMobileApp:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.companyname.BonfireMobileApp:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.companyname.BonfireMobileApp:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.companyname.BonfireMobileApp:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.companyname.BonfireMobileApp:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.companyname.BonfireMobileApp:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.companyname.BonfireMobileApp:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.companyname.BonfireMobileApp:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.companyname.BonfireMobileApp:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.companyname.BonfireMobileApp:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.FubiniCorp.BonfireMobileApp:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.FubiniCorp.BonfireMobileApp:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.FubiniCorp.BonfireMobileApp:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.FubiniCorp.BonfireMobileApp:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.FubiniCorp.BonfireMobileApp:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.FubiniCorp.BonfireMobileApp:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.FubiniCorp.BonfireMobileApp:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.FubiniCorp.BonfireMobileApp:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.FubiniCorp.BonfireMobileApp:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.FubiniCorp.BonfireMobileApp:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.FubiniCorp.BonfireMobileApp:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.FubiniCorp.BonfireMobileApp:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.FubiniCorp.BonfireMobileApp:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.FubiniCorp.BonfireMobileApp:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.FubiniCorp.BonfireMobileApp:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.FubiniCorp.BonfireMobileApp:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9917,17 +9917,17 @@ containing a value of this type.
             0x7f010143, 0x7f010144, 0x7f010145, 0x7f010146
         };
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:tabBackground
+          @attr name com.FubiniCorp.BonfireMobileApp:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9939,11 +9939,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabContentStart
+          @attr name com.FubiniCorp.BonfireMobileApp:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9956,11 +9956,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:tabGravity
+          @attr name com.FubiniCorp.BonfireMobileApp:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9971,11 +9971,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabIndicatorColor
+          @attr name com.FubiniCorp.BonfireMobileApp:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9987,11 +9987,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabIndicatorHeight
+          @attr name com.FubiniCorp.BonfireMobileApp:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10003,11 +10003,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabMaxWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10019,11 +10019,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabMinWidth
+          @attr name com.FubiniCorp.BonfireMobileApp:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10036,11 +10036,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:tabMode
+          @attr name com.FubiniCorp.BonfireMobileApp:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10052,11 +10052,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabPadding
+          @attr name com.FubiniCorp.BonfireMobileApp:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10068,11 +10068,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabPaddingBottom
+          @attr name com.FubiniCorp.BonfireMobileApp:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10084,11 +10084,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabPaddingEnd
+          @attr name com.FubiniCorp.BonfireMobileApp:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10100,11 +10100,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabPaddingStart
+          @attr name com.FubiniCorp.BonfireMobileApp:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10116,11 +10116,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabPaddingTop
+          @attr name com.FubiniCorp.BonfireMobileApp:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10131,21 +10131,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabSelectedTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:tabTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10156,7 +10156,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:tabTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10174,7 +10174,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.companyname.BonfireMobileApp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.FubiniCorp.BonfireMobileApp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -10247,14 +10247,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.companyname.BonfireMobileApp:textAllCaps
+          @attr name com.FubiniCorp.BonfireMobileApp:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -10265,20 +10265,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.companyname.BonfireMobileApp:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.companyname.BonfireMobileApp:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.companyname.BonfireMobileApp:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.companyname.BonfireMobileApp:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.companyname.BonfireMobileApp:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.companyname.BonfireMobileApp:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.companyname.BonfireMobileApp:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.companyname.BonfireMobileApp:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.companyname.BonfireMobileApp:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.companyname.BonfireMobileApp:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.companyname.BonfireMobileApp:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.companyname.BonfireMobileApp:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.companyname.BonfireMobileApp:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.companyname.BonfireMobileApp:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.FubiniCorp.BonfireMobileApp:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.FubiniCorp.BonfireMobileApp:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.FubiniCorp.BonfireMobileApp:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.FubiniCorp.BonfireMobileApp:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.FubiniCorp.BonfireMobileApp:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.FubiniCorp.BonfireMobileApp:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.FubiniCorp.BonfireMobileApp:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.FubiniCorp.BonfireMobileApp:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.FubiniCorp.BonfireMobileApp:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.FubiniCorp.BonfireMobileApp:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.FubiniCorp.BonfireMobileApp:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.FubiniCorp.BonfireMobileApp:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.FubiniCorp.BonfireMobileApp:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.FubiniCorp.BonfireMobileApp:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10316,7 +10316,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10326,11 +10326,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:counterEnabled
+          @attr name com.FubiniCorp.BonfireMobileApp:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10340,31 +10340,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:counterMaxLength
+          @attr name com.FubiniCorp.BonfireMobileApp:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:counterOverflowTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:counterTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10374,21 +10374,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:errorEnabled
+          @attr name com.FubiniCorp.BonfireMobileApp:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:errorTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10398,11 +10398,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:hintAnimationEnabled
+          @attr name com.FubiniCorp.BonfireMobileApp:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10412,21 +10412,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:hintEnabled
+          @attr name com.FubiniCorp.BonfireMobileApp:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:hintTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10436,21 +10436,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:passwordToggleContentDescription
+          @attr name com.FubiniCorp.BonfireMobileApp:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:passwordToggleDrawable
+          @attr name com.FubiniCorp.BonfireMobileApp:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10460,11 +10460,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:passwordToggleEnabled
+          @attr name com.FubiniCorp.BonfireMobileApp:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10475,11 +10475,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:passwordToggleTint
+          @attr name com.FubiniCorp.BonfireMobileApp:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10495,7 +10495,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:passwordToggleTintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10506,33 +10506,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.companyname.BonfireMobileApp:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.companyname.BonfireMobileApp:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.companyname.BonfireMobileApp:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.companyname.BonfireMobileApp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.companyname.BonfireMobileApp:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.companyname.BonfireMobileApp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.companyname.BonfireMobileApp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.companyname.BonfireMobileApp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.companyname.BonfireMobileApp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.companyname.BonfireMobileApp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.companyname.BonfireMobileApp:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.companyname.BonfireMobileApp:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.companyname.BonfireMobileApp:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.companyname.BonfireMobileApp:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.companyname.BonfireMobileApp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.companyname.BonfireMobileApp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.companyname.BonfireMobileApp:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.companyname.BonfireMobileApp:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.companyname.BonfireMobileApp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.companyname.BonfireMobileApp:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.companyname.BonfireMobileApp:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.companyname.BonfireMobileApp:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.companyname.BonfireMobileApp:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.companyname.BonfireMobileApp:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.companyname.BonfireMobileApp:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.companyname.BonfireMobileApp:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.companyname.BonfireMobileApp:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.FubiniCorp.BonfireMobileApp:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.FubiniCorp.BonfireMobileApp:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.FubiniCorp.BonfireMobileApp:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.FubiniCorp.BonfireMobileApp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.FubiniCorp.BonfireMobileApp:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.FubiniCorp.BonfireMobileApp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.FubiniCorp.BonfireMobileApp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.FubiniCorp.BonfireMobileApp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.FubiniCorp.BonfireMobileApp:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.FubiniCorp.BonfireMobileApp:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.FubiniCorp.BonfireMobileApp:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.FubiniCorp.BonfireMobileApp:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.FubiniCorp.BonfireMobileApp:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.FubiniCorp.BonfireMobileApp:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.FubiniCorp.BonfireMobileApp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.FubiniCorp.BonfireMobileApp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.FubiniCorp.BonfireMobileApp:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.FubiniCorp.BonfireMobileApp:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.FubiniCorp.BonfireMobileApp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.FubiniCorp.BonfireMobileApp:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.FubiniCorp.BonfireMobileApp:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.FubiniCorp.BonfireMobileApp:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.FubiniCorp.BonfireMobileApp:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.FubiniCorp.BonfireMobileApp:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.FubiniCorp.BonfireMobileApp:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.FubiniCorp.BonfireMobileApp:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.FubiniCorp.BonfireMobileApp:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10587,7 +10587,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10600,11 +10600,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:buttonGravity
+          @attr name com.FubiniCorp.BonfireMobileApp:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10614,21 +10614,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:collapseContentDescription
+          @attr name com.FubiniCorp.BonfireMobileApp:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:collapseIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10640,11 +10640,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetEnd
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10656,11 +10656,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetEndWithActions
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10672,11 +10672,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetLeft
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10688,11 +10688,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetRight
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10704,11 +10704,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetStart
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10720,21 +10720,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:contentInsetStartWithNavigation
+          @attr name com.FubiniCorp.BonfireMobileApp:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:logo
+          @attr name com.FubiniCorp.BonfireMobileApp:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10744,11 +10744,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:logoDescription
+          @attr name com.FubiniCorp.BonfireMobileApp:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10760,11 +10760,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:maxButtonHeight
+          @attr name com.FubiniCorp.BonfireMobileApp:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10774,31 +10774,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:navigationContentDescription
+          @attr name com.FubiniCorp.BonfireMobileApp:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:navigationIcon
+          @attr name com.FubiniCorp.BonfireMobileApp:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:popupTheme
+          @attr name com.FubiniCorp.BonfireMobileApp:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10808,21 +10808,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:subtitle
+          @attr name com.FubiniCorp.BonfireMobileApp:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:subtitleTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10833,11 +10833,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:subtitleTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#title}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10847,11 +10847,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:title
+          @attr name com.FubiniCorp.BonfireMobileApp:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10863,11 +10863,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleMargin
+          @attr name com.FubiniCorp.BonfireMobileApp:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10879,11 +10879,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleMarginBottom
+          @attr name com.FubiniCorp.BonfireMobileApp:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10895,11 +10895,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleMarginEnd
+          @attr name com.FubiniCorp.BonfireMobileApp:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10911,11 +10911,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleMarginStart
+          @attr name com.FubiniCorp.BonfireMobileApp:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10927,11 +10927,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleMarginTop
+          @attr name com.FubiniCorp.BonfireMobileApp:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10943,21 +10943,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleMargins
+          @attr name com.FubiniCorp.BonfireMobileApp:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:titleTextAppearance
+          @attr name com.FubiniCorp.BonfireMobileApp:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10968,7 +10968,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:titleTextColor
+          @attr name com.FubiniCorp.BonfireMobileApp:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10979,9 +10979,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.companyname.BonfireMobileApp:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.companyname.BonfireMobileApp:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.companyname.BonfireMobileApp:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.FubiniCorp.BonfireMobileApp:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.FubiniCorp.BonfireMobileApp:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.FubiniCorp.BonfireMobileApp:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -11006,7 +11006,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11018,11 +11018,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:paddingEnd
+          @attr name com.FubiniCorp.BonfireMobileApp:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11034,17 +11034,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:paddingStart
+          @attr name com.FubiniCorp.BonfireMobileApp:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.companyname.BonfireMobileApp:theme
+          @attr name com.FubiniCorp.BonfireMobileApp:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -11054,8 +11054,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.companyname.BonfireMobileApp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.companyname.BonfireMobileApp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.FubiniCorp.BonfireMobileApp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.FubiniCorp.BonfireMobileApp:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -11071,7 +11071,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11082,11 +11082,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.companyname.BonfireMobileApp:backgroundTint
+          @attr name com.FubiniCorp.BonfireMobileApp:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.companyname.BonfireMobileApp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.FubiniCorp.BonfireMobileApp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11102,7 +11102,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.companyname.BonfireMobileApp:backgroundTintMode
+          @attr name com.FubiniCorp.BonfireMobileApp:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

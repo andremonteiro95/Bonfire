@@ -661,3 +661,15 @@ C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\obj
 C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Acr.UserDialogs.Interface.dll
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Acr.UserDialogs.Interface.pdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Acr.UserDialogs.dll
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Acr.UserDialogs.pdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Coding4Fun.Toolkit.dll
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Splat.dll
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\obj\x86\Debug\Acr.UserDialogs.pri.xml
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\obj\x86\Debug\Coding4Fun.Toolkit.Controls.pri.xml
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\obj\x86\Debug\Coding4Fun.Toolkit.pri.xml

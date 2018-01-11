@@ -68,7 +68,8 @@ namespace BonfireMobileApp
 
             Image img = new Image
             {
-                Source = ImageSource.FromFile("ic_bonfire.png")
+                Source = ImageSource.FromFile("ic_bonfire.png"),
+                HorizontalOptions = LayoutOptions.Center
             };
 
             stackLayout.Children.Add(labelSearching);

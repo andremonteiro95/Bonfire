@@ -46,10 +46,10 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\bin\Debug\Xamarin.Forms.Core.xml
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.csprojResolveAssemblyReference.cache
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.csproj.CoreCompileInputs.cache
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.MainPage.xaml.g.cs
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.App.xaml.g.cs
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.DescriptionPage.xaml.g.cs
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.dll
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.pdb
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.csprojResolveAssemblyReference.cache

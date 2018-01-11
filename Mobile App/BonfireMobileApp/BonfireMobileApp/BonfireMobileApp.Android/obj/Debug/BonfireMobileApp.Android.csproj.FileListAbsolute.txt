@@ -60,8 +60,8 @@ C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android
 C:\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable\splashscreen.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\BonfireMobileApp.Android.dll
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\BonfireMobileApp.Android.pdb
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\com.companyname.BonfireMobileApp.apk
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\com.companyname.BonfireMobileApp-Signed.apk
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\com.FubiniCorp.BonfireMobileApp.apk
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\com.FubiniCorp.BonfireMobileApp-Signed.apk
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\Acr.Support.Android.dll
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\Acr.UserDialogs.dll
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\Acr.UserDialogs.Interface.dll
@@ -110,7 +110,7 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\BonfireMobileApp.Android.csproj.CoreCompileInputs.cache
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\BonfireMobileApp.Android.dll
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\BonfireMobileApp.Android.pdb
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\bin\com.companyname.BonfireMobileApp.apk
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\bin\com.FubiniCorp.BonfireMobileApp.apk
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable\icon.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\icon.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
@@ -123,6 +123,12 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\ic_arrow_back.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\ic_arrow_back.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xxhdpi\ic_arrow_back.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\ic_bluetooth.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\ic_bluetooth.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xxhdpi\ic_bluetooth.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\ic_bonfire.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xxhdpi\ic_bonfire.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\ic_bonfire.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\R.cs.flag
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\uploadflags.txt
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\BonfireMobileApp.dll.mdb
@@ -135,9 +141,3 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\ic_bluetooth.png
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\ic_bluetooth.png
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xxhdpi\ic_bluetooth.png
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\ic_bonfire.png
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xxhdpi\ic_bonfire.png
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\ic_bonfire.png

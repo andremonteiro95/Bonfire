@@ -1,3 +1,4 @@
+WinMetadata\Windows.winmd
 Assets\LargeTile.scale-100.png
 Assets\LargeTile.scale-125.png
 Assets\LargeTile.scale-150.png
@@ -49,6 +50,8 @@ Assets\Wide310x150Logo.scale-150.png
 Assets\Wide310x150Logo.scale-200.png
 Assets\Wide310x150Logo.scale-400.png
 BonfireMobileApp.UWP.xr.xml
+ic_arrow_back.png
+ic_bluetooth.png
+ic_bonfire.png
 logo2.png
 Properties\Default.rd.xml
-WinMetadata\Windows.winmd
