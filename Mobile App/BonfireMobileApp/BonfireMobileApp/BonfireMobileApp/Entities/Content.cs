@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BonfireMobileApp.Entities
 {
-    class Content
+    public class Content
     {
         [JsonProperty("Title")]
         public string Title { get; set; }

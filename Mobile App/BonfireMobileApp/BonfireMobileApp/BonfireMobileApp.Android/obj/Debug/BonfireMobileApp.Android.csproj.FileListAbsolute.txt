@@ -111,3 +111,11 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable\splashscreen.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\R.cs.flag
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\uploadflags.txt
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\BonfireMobileApp.dll.mdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\bin\Debug\BonfireMobileApp.Android.dll.mdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\BonfireMobileApp.Android.dll.mdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\BonfireMobileApp.dll.mdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
