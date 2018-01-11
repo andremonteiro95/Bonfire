@@ -12,6 +12,8 @@ namespace BonfireMobileApp
 {
     public partial class MainPage : ContentPage
     {
+        List<Content> list = new List<Content>();
+
         public MainPage()
         {
             InitializeComponent();
@@ -38,7 +40,6 @@ namespace BonfireMobileApp
             Button bt = new Button
             {
                 Text = "Blergh"
-
             };
             bt.Clicked += Bt_Clicked;
 
@@ -63,7 +64,14 @@ namespace BonfireMobileApp
 
         private void Bt_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new DescriptionPage());
+            Content c = new Content
+            {
+                Title = "TEST TEST TEST",
+                Url = "https://static.pexels.com/photos/207962/pexels-photo-207962.jpeg"
+            };
+
+            DescriptionPage newPage = new DescriptionPage(c);
+            Navigation.PushAsync(newPage);
 
         }
     }
