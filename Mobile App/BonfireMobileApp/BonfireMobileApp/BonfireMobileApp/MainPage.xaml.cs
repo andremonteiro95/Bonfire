@@ -57,6 +57,23 @@ namespace BonfireMobileApp
                 BackgroundColor = Color.FromHex("#182221")
             };
 
+            Label labelSearching = new Label
+            {
+                Text = "Searching for nearby beacons...",
+                TextColor = Color.GhostWhite,
+                VerticalOptions = LayoutOptions.Center,
+                HorizontalOptions = LayoutOptions.Center,
+                Margin = new Thickness(0, 15)
+            };
+
+            Image img = new Image
+            {
+                Source = ImageSource.FromFile("ic_bonfire.png")
+            };
+
+            stackLayout.Children.Add(labelSearching);
+            stackLayout.Children.Add(img);
+
             scrollView.Content = stackLayout;
 
             mainLayout.Children.Add(scrollView);

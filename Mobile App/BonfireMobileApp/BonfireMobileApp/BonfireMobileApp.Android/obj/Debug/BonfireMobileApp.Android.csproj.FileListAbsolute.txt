@@ -138,3 +138,6 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\ic_bluetooth.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\ic_bluetooth.png
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xxhdpi\ic_bluetooth.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-hdpi\ic_bonfire.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xxhdpi\ic_bonfire.png
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.Android\obj\Debug\res\drawable-xhdpi\ic_bonfire.png

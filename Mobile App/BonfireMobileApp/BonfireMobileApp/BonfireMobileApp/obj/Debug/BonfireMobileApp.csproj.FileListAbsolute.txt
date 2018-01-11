@@ -52,3 +52,4 @@ C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileAp
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.DescriptionPage.xaml.g.cs
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.dll
 C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.pdb
+C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\obj\Debug\BonfireMobileApp.csprojResolveAssemblyReference.cache
