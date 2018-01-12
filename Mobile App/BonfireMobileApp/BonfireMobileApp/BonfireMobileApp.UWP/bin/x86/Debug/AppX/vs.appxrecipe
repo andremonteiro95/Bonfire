@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-11T22:43:23.956</Modified>
+      <Modified>2018-01-12T09:02:26.006</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\BonfireMobileApp.UWP.exe">
       <PackagePath>entrypoint\BonfireMobileApp.UWP.exe</PackagePath>
-      <Modified>2018-01-11T22:43:22.822</Modified>
+      <Modified>2018-01-12T09:02:24.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\acr.userdialogs\6.5.1\lib\uap10.0\Acr.UserDialogs.Interface.dll">
       <PackagePath>Acr.UserDialogs.Interface.dll</PackagePath>
@@ -533,7 +533,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\bin\Debug\BonfireMobileApp.dll">
       <PackagePath>BonfireMobileApp.dll</PackagePath>
-      <Modified>2018-01-11T22:39:34.830</Modified>
+      <Modified>2018-01-12T09:02:21.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -863,11 +863,11 @@
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-11T22:35:43.330</Modified>
+      <Modified>2018-01-12T09:02:25.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\bin\x86\Debug\Core\BonfireMobileApp.UWP.exe">
       <PackagePath>BonfireMobileApp.UWP.exe</PackagePath>
-      <Modified>2018-01-11T22:43:23.951</Modified>
+      <Modified>2018-01-12T09:02:26.002</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

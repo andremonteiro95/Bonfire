@@ -40,9 +40,8 @@ namespace BonfireMobileApp
                 BackgroundColor = Color.FromHex("#292929"),
                 VerticalOptions = LayoutOptions.FillAndExpand,
                 RowDefinitions = {
-                    new RowDefinition { Height = new GridLength (165, GridUnitType.Absolute) },
-                    new RowDefinition { Height = new GridLength (30, GridUnitType.Absolute) },
-                    new RowDefinition { Height = GridLength.Star }
+                    new RowDefinition { Height = new GridLength (2, GridUnitType.Star) },
+                    new RowDefinition { Height = new GridLength (2, GridUnitType.Star) }
                 },
                 ColumnDefinitions = {
                     new ColumnDefinition { Width = GridLength.Star }
@@ -68,24 +67,29 @@ namespace BonfireMobileApp
                     grid.RowDefinitions[0].Height = 1;
                     break;
             }
+
+            StackLayout stackStrings = new StackLayout();
+
             Label labelTitle = new Label {
                 Text = actualContent.Title,
                 TextColor = Color.GhostWhite,
                 Margin = new Thickness(5, 1)
             };
-            grid.Children.Add(labelTitle, 0, 1);
+            stackStrings.Children.Add(labelTitle);
 
             string fullDescription =
                 actualContent.Description +
                 "\nPromotion Ends " + actualContent.EndDate;
 
             Label labelDescription = new Label {
-                Text = actualContent.Description,
+                Text = fullDescription,
                 TextColor = Color.GhostWhite,
                 Margin = new Thickness(5, 1),
                 FontSize = 12
             };
-            grid.Children.Add(labelDescription, 0, 2);
+            stackStrings.Children.Add(labelDescription);
+
+            grid.Children.Add(stackStrings, 0, 1);
 
             mainLayout.Children.Add(grid);
         }

@@ -15,7 +15,7 @@ namespace BonfireMobileApp.Views
             HtmlWebViewSource htmlWebViewSource = new HtmlWebViewSource();
 
             url = url.Replace("watch?v=", "embed/");
-            string iframeURL = string.Format("<iframe width=\"100%\" src=\"{0}\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>", url);
+            string iframeURL = string.Format("<iframe width=\"100%\" height=\"100%\" src=\"{0}\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen></iframe>", url);
                          string finalUrl = string.Format("<html><body style=\"background-color:transparent;\">{0}</body></html>", iframeURL);
 
             htmlWebViewSource.Html = finalUrl;
