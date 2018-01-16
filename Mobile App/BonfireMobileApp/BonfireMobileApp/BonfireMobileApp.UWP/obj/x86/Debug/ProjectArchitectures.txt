@@ -1,2 +1,0 @@
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.UWP\BonfireMobileApp.UWP.csproj;x86
-C:\Projects\Bonfire\Mobile App\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp\BonfireMobileApp.csproj;neutral
